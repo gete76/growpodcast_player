@@ -32,7 +32,8 @@
     "less": "*",
     "pouchdb": "*",
     "es5-shim": "*",
-    "wavesurfer.js": "*"
+    "wavesurfer.js": "*",
+    "jplayer": "*"
   },
   "devDependencies": {
     "assert": "*",

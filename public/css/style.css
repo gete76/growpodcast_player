@@ -1,0 +1,22 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+#index-banner-container{
+	background-image: url('/images/logo.svg');
+    background-repeat: no-repeat;
+    background-size: 490px;
+}
+#index-banner-container h1,#index-banner-container h5{
+	text-shadow: 0px 0px 3px #fff;
+}
+h1.header{
+	font-weight: bold;
+}
