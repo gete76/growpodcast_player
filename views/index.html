@@ -7,13 +7,34 @@
   <!-- CSS  -->
 
   <link rel="stylesheet" type="text/css" href="/css/materialize.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/flat.audio.css">
   <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
+    <div id="player" class="jp-jplayer"></div>
+
+    <div id="jp_container_1" class="jp-flat-audio" role="application" aria-label="media player">
+      <div class="jp-play-control jp-control">
+        <button class="jp-play jp-button" role="button" aria-label="play" tabindex="0"></button>
+      </div>
+      <div class="jp-bar">
+        <div class="jp-seek-bar jp-seek-bar-display"></div>
+        <div class="jp-seek-bar">
+          <div class="jp-play-bar"></div>
+          <div class="jp-details"><span class="jp-title" aria-label="title"></span></div>
+          <div class="jp-timing"><span class="jp-duration" role="timer" aria-label="duration"></span></div>
+        </div>
+      </div>
+      <div class="jp-no-solution">
+        Media Player Error<br />
+        Update your browser or Flash plugin
+      </div>
+    </div>
   <nav class="light-green">
+
     <div class="container">
       <div class="nav-wrapper">
-        <div id="player" style="float:left"></div>
+        
         <ul id="nav-mobile" class="right hide-on-med-and-down">
         	<li><a href="#">Shows</a></li>
         	<li><a href="#">Archive</a></li>
