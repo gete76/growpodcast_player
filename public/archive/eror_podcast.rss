@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>eror</title>
+    <link>http://www.growradio.org/show.php?name=eror</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>eror - Dec 23 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=57&amp;date=1493</description>
+      <enclosure length="162410252"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/eror/eror_2010122300.mp3"/>
+      <pubDate>Fri, 24 Dec 2010 02:27:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>eror - Dec 09 2010 - Part 2</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=57&amp;date=1457</description>
+      <enclosure length="172796227"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/eror/eror_2010120902.mp3"/>
+      <pubDate>Fri, 10 Dec 2010 03:23:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>eror - Dec 09 2010 - Part 1</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=57&amp;date=1457</description>
+      <enclosure length="42456141"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/eror/eror_2010120901.mp3"/>
+      <pubDate>Fri, 10 Dec 2010 02:23:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>eror - Nov 18 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=57&amp;date=1401</description>
+      <enclosure length="172523282"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/eror/eror_2010111800.mp3"/>
+      <pubDate>Fri, 19 Nov 2010 02:17:10 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

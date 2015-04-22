@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Mixtape Party</title>
+    <link>http://www.growradio.org/show.php?name=The Mixtape Party</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Mixtape Party - Feb 06 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=51&amp;date=3213</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_mixtape_party/the_mixtape_party_2012020600.mp3"
+        length="45946402"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 06 Feb 2012 18:02:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mixtape Party - Dec 19 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=51&amp;date=3055</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_mixtape_party/the_mixtape_party_2011121900.mp3"
+        length="158820781"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 06 Feb 2012 13:33:40 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mixtape Party - Dec 05 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=51&amp;date=2990</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_mixtape_party/the_mixtape_party_2011120500.mp3"
+        length="171473493"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 06 Feb 2012 13:32:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Mixtape Party - Nov 21 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=51&amp;date=2934</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_mixtape_party/the_mixtape_party_2011112100.mp3"
+        length="166771607"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 06 Feb 2012 13:31:33 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

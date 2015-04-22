@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>jukebox roulette</title>
+    <link>http://www.growradio.org/show.php?name=jukebox roulette</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>jukebox roulette - Sep 08 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=132&amp;date=6923  </description>
+      <enclosure type="audio/mpeg"
+        length="59795677"
+        url="https://s3.amazonaws.com/growradio/jukebox_roulette/jukebox_roulette_2014090800.mp3"/>
+      <pubDate>Mon, 15 Sep 2014 11:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>jukebox roulette - Aug 31 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=132&amp;date=6893  </description>
+      <enclosure type="audio/mpeg"
+        length="58891846"
+        url="https://s3.amazonaws.com/growradio/jukebox_roulette/jukebox_roulette_2014083100.mp3"/>
+      <pubDate>Sun, 31 Aug 2014 15:49:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>jukebox roulette - Aug 17 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=132&amp;date=6851  </description>
+      <enclosure type="audio/mpeg"
+        length="102633337"
+        url="https://s3.amazonaws.com/growradio/jukebox_roulette/jukebox_roulette_2014081700.mp3"/>
+      <pubDate>Sun, 17 Aug 2014 21:52:37 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

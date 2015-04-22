@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Doomed Forever Show</title>
+    <link>http://www.growradio.org/show.php?name=The Doomed Forever Show</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Doomed Forever Show - Nov 06 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=2&amp;date=4419  UMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_doomed_forever_show/the_doomed_forever_show_2012110600.mp3"
+        length="119728084"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Nov 2012 23:06:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Doomed Forever Show - Oct 09 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=2&amp;date=4295  UNNNNGGGGGGHHHHH</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_doomed_forever_show/the_doomed_forever_show_2012100900.mp3"
+        length="116141654"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 09 Oct 2012 23:02:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Doomed Forever Show - Sep 18 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=2&amp;date=4205  VVVVVVVVVVVVV&amp;#730;&amp;#730;&amp;#730;&amp;#730;&amp;#730;&amp;#730;VVVVVVVVVVVV</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_doomed_forever_show/the_doomed_forever_show_2012091800.mp3"
+        length="114142611"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 18 Sep 2012 23:00:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Doomed Forever Show - Sep 11 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=2&amp;date=4174  BILL CLINTON HELL FIRE GEORGE BUSH DAMNATION</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_doomed_forever_show/the_doomed_forever_show_2012091100.mp3"
+        length="117174762"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 11 Sep 2012 23:05:01 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Radio Azar</title>
+    <link>http://www.growradio.org/show.php?name=Radio Azar</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Radio Azar - May 02 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=142&amp;date=3574  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/radio_azar/radio_azar_2012050200.mp3"
+        length="105864672"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 May 2012 13:01:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Radio Azar_Apr 11 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=142&amp;date=3476  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/radio_azar/radio_azar_2012041100.mp3"
+        length="118327268"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 11 Apr 2012 13:14:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Radio Azar - Mar 21 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=142&amp;date=3412  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/radio_azar/radio_azar_2012032100.mp3"
+        length="113141350"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 21 Mar 2012 13:01:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Radio Azar - Mar 14 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=142&amp;date=3377  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/radio_azar/radio_azar_2012031400.mp3"
+        length="91893990"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 May 2012 04:00:43 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

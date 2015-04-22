@@ -1,0 +1,63 @@
+<HTML>
+    <HEAD>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <TITLE>
+            Grow Radio Archive: ~~~FeedTitle~~~
+        </TITLE>
+        <style>
+			     body{
+				     margin:auto;
+				     width:650px;
+				     background-image: url('http://www.growradio.org/wp-content/themes/fancy/img/bg-diag2.gif');
+				     font-family:tahoma, sans-serif;
+			     }
+
+			     #content{
+				     background-image :url('http://www.growradio.org/wp-content/themes/fancy/img/big-top.png');
+				     background-repeat:no-repeat;
+				     width:620px;
+				     padding-top:18px;
+				     margin-top:20px;
+				     margin-bottom:0px;
+
+			     }
+			     #text{
+				     margin-top:0px;
+				     margin-bottom:0px;
+				     padding:0px 15px 10px 12px;
+				     background-color:white;
+
+			     }
+			     .header{
+				     background-color:#329800;
+				     font-weight:bold;
+				     color:white;
+			     }
+			  </style>
+    </HEAD>
+    <BODY>
+	    <div id="content">
+		    <div id="text">
+        <span style="font-size:22px;font-weight:bold;margin-bottom:10px;color:#329800;">~~~FeedTitle~~~</span><br/>
+        <span style="font-size:15px;font-weight:bold;margin-bottom:20px;color:#bbb;">~~~FeedDescription~~~</span><br/>
+	      ~~~BeginItemsRecord~~~
+        <TABLE width="100%" style="margin-bottom:5px;margin-top:10px;font-size:13px;">
+            <TR>
+                <TD>
+                    <B><A href="~~~ItemEnclosureUrl~~~">~~~ItemTitle~~~</A></B>
+                </TD>
+            </TR>
+            <TR>
+                <TD>
+                    ~~~ItemDescription~~~
+                    <BR>
+                </TD>
+            </TR>
+            
+        </TABLE>
+        ~~~EndItemsRecord~~~
+        </div>
+      </div>
+      <img src="http://www.growradio.org/wp-content/themes/fancy/img/big-bottom.png" style="margin-top: 0px;margin-bottom:20px; padding-top: 0px;"/>
+    </BODY>
+</HTML>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Paradox Press</title>
+    <link>http://www.growradio.org/show.php?name=Paradox Press</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Paradox Press - Apr 20 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=183&amp;date=5146  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/paradox_press/paradox_press_2013042000.mp3"
+        type="audio/mpeg"
+        length="92101117"/>
+      <pubDate>Sat, 20 Apr 2013 14:45:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paradox Press - Apr 13 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=183&amp;date=5116  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/paradox_press/paradox_press_2013041300.mp3"
+        type="audio/mpeg"
+        length="104620074"/>
+      <pubDate>Sat, 13 Apr 2013 14:53:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paradox Press - Mar 30 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=183&amp;date=5047  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/paradox_press/paradox_press_2013033000.mp3"
+        type="audio/mpeg"
+        length="104045794"/>
+      <pubDate>Sat, 30 Mar 2013 14:48:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paradox Press - Mar 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=183&amp;date=5011  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/paradox_press/paradox_press_2013032300.mp3"
+        type="audio/mpeg"
+        length="107692487"/>
+      <pubDate>Sat, 23 Mar 2013 14:55:06 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

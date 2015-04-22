@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Coffee Alternative</title>
+    <link>http://www.growradio.org/show.php?name=The Coffee Alternative</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Coffee Alternative - Jul 03 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=140&amp;date=3864  </description>
+      <enclosure length="119119425"
+        url="https://s3.amazonaws.com/growradio/the_coffee_alternative/the_coffee_alternative_2012070300.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 03 Jul 2012 10:03:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Coffee Alternative - May 22 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=140&amp;date=3674  </description>
+      <enclosure length="112990897"
+        url="https://s3.amazonaws.com/growradio/the_coffee_alternative/the_coffee_alternative_2012052200.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 22 May 2012 09:59:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Coffee Alternative - May 08 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=140&amp;date=3607  </description>
+      <enclosure length="111719123"
+        url="https://s3.amazonaws.com/growradio/the_coffee_alternative/the_coffee_alternative_2012050800.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jun 2012 04:01:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Coffee Alternative_Apr 24 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=140&amp;date=3533  </description>
+      <enclosure length="123272430"
+        url="https://s3.amazonaws.com/growradio/the_coffee_alternative/the_coffee_alternative_2012042400.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jun 2012 04:01:14 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

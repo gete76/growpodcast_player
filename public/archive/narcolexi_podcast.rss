@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Narcolexi</title>
+    <link>http://www.growradio.org/show.php?name=Narcolexi</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Narcolexi - Aug 20 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=194&amp;date=5698  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/narcolexi/narcolexi_2013082000.mp3"
+        length="40787786"/>
+      <pubDate>Tue, 20 Aug 2013 08:42:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Narcolexi - Jul 30 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=194&amp;date=5617  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/narcolexi/narcolexi_2013073000.mp3"
+        length="109524098"/>
+      <pubDate>Tue, 30 Jul 2013 09:59:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Narcolexi - Jul 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=194&amp;date=5585  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/narcolexi/narcolexi_2013072300.mp3"
+        length="116829602"/>
+      <pubDate>Tue, 23 Jul 2013 10:02:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Narcolexi - Jul 16 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=194&amp;date=5552  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/narcolexi/narcolexi_2013071600.mp3"
+        length="114322059"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:06 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

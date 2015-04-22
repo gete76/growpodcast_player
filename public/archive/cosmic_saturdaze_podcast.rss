@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Cosmic Saturdaze</title>
+    <link>http://www.growradio.org/show.php?name=Cosmic Saturdaze</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Cosmic Saturdaze - Mar 08 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=202&amp;date=6380  </description>
+      <enclosure type="audio/mpeg"
+        length="93042707"
+        url="https://s3.amazonaws.com/growradio/cosmic_saturdaze/cosmic_saturdaze_2014030800.mp3"/>
+      <pubDate>Sat, 08 Mar 2014 14:58:30 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cosmic Saturdaze - Mar 01 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=202&amp;date=6358  </description>
+      <enclosure type="audio/mpeg"
+        length="85584"
+        url="https://s3.amazonaws.com/growradio/cosmic_saturdaze/cosmic_saturdaze_2014030100.mp3"/>
+      <pubDate>Sat, 01 Mar 2014 13:25:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cosmic Saturdaze - Jan 25 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=202&amp;date=6247  </description>
+      <enclosure type="audio/mpeg"
+        length="91261815"
+        url="https://s3.amazonaws.com/growradio/cosmic_saturdaze/cosmic_saturdaze_2014012500.mp3"/>
+      <pubDate>Sat, 25 Jan 2014 14:52:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cosmic Saturdaze - Jan 18 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=202&amp;date=6220  </description>
+      <enclosure type="audio/mpeg"
+        length="102109506"
+        url="https://s3.amazonaws.com/growradio/cosmic_saturdaze/cosmic_saturdaze_2014011800.mp3"/>
+      <pubDate>Sat, 18 Jan 2014 14:56:16 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

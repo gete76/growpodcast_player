@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Homebrew Talk</title>
+    <link>http://www.growradio.org/show.php?name=Homebrew Talk</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Homebrew Talk - Mar 28 2015</title>
+      <description>Brew Long and Prosper on Homebrew Talk</description>
+      <enclosure type="audio/mpeg"
+        length="48714707"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2015032800.mp3"/>
+      <pubDate>Sun, 05 Apr 2015 20:35:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Feb 19 2015</title>
+      <description>Bee Keeping on Homebrew Talk</description>
+      <enclosure type="audio/mpeg"
+        length="56002906"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2015021900.mp3"/>
+      <pubDate>Wed, 19 Feb 2015 20:07:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Jan 29 2015</title>
+      <description>Making Wine on Homebrew Talk</description>
+      <enclosure type="audio/mpeg"
+        length="53912175"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2015012900.mp3"/>
+      <pubDate>Wed, 29 Jan 2015 20:07:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Dec 17 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=7214  Brewing in a bag</description>
+      <enclosure type="audio/mpeg"
+        length="55116255"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014121700.mp3"/>
+      <pubDate>Wed, 17 Dec 2014 20:07:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Nov 19 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=7156  Encore performances of Boilin' Oil on past Homemade Beer, Homemade Music episodes</description>
+      <enclosure type="audio/mpeg"
+        length="52804511"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014111900.mp3"/>
+      <pubDate>Wed, 19 Nov 2014 20:10:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Oct 29 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=7091  Coffee and Spices in your homebrew</description>
+      <enclosure type="audio/mpeg"
+        length="55555528"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014102900.mp3"/>
+      <pubDate>Wed, 29 Oct 2014 20:08:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Sep 24 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6978  Get Smart with gadgets</description>
+      <enclosure type="audio/mpeg"
+        length="53175639"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014092400.mp3"/>
+      <pubDate>Wed, 24 Sep 2014 20:04:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Aug 20 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6865  No-chill brewing, and chill plates</description>
+      <enclosure type="audio/mpeg"
+        length="52967136"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014082000.mp3"/>
+      <pubDate>Wed, 20 Aug 2014 20:04:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Jul 16 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6758  Joes to Pros - opening up your own brewery</description>
+      <enclosure type="audio/mpeg"
+        length="61796109"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014071600.mp3"/>
+      <pubDate>Wed, 16 Jul 2014 20:14:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Jun 18 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6678  Putting beers on nitro; fun with sour beers</description>
+      <enclosure type="audio/mpeg"
+        length="59045915"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014061800.mp3"/>
+      <pubDate>Wed, 18 Jun 2014 20:07:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - May 28 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6616  Fan favorite clips, plus behind the scenes at hbt</description>
+      <enclosure type="audio/mpeg"
+        length="53916310"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014052800.mp3"/>
+      <pubDate>Wed, 28 May 2014 20:11:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Apr 23 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6511  homebrew club beer challenges, cleaning your lines</description>
+      <enclosure type="audio/mpeg"
+        length="48970598"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014042300.mp3"/>
+      <pubDate>Thu, 24 Apr 2014 09:47:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Mar 19 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6411  Homebrew store advice, growing and pitching yeast</description>
+      <enclosure type="audio/mpeg"
+        length="56427384"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014031900.mp3"/>
+      <pubDate>Wed, 19 Mar 2014 20:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Feb 26 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6349  Doppelbocks and mashing</description>
+      <enclosure type="audio/mpeg"
+        length="50975371"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014022600.mp3"/>
+      <pubDate>Wed, 26 Feb 2014 20:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Jan 22 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6234  Best of Show, studying for the bjcp exam</description>
+      <enclosure type="audio/mpeg"
+        length="47347433"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2014012200.mp3"/>
+      <pubDate>Wed, 22 Jan 2014 19:55:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Dec 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6198  Brewing software, primer on lagers</description>
+      <enclosure type="audio/mpeg"
+        length="56570743"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2013121800.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:15:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Homebrew Talk - Nov 20 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=72&amp;date=6078  home-made beer, home-made music: hard cider, rookie mistakes</description>
+      <enclosure type="audio/mpeg"
+        length="55100360"
+        url="https://s3.amazonaws.com/growradio/homebrew_talk/homebrew_talk_2013112000.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:14:41 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

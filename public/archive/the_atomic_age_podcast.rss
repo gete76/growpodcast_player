@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Atomic Age</title>
+    <link>http://www.growradio.org/show.php?name=The Atomic Age</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Atomic Age - Jul 14 2013</title>
+      <description> </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_atomic_age/the_atomic_age_2013071400.mp3"
+        length="6610711"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jul 2013 14:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Atomic Age - May 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=172&amp;date=5249  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_atomic_age/the_atomic_age_2013051200.mp3"
+        length="115849799"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 29 Jun 2013 14:01:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Atomic Age - May 05 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=172&amp;date=5221  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_atomic_age/the_atomic_age_2013050500.mp3"
+        length="110037637"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 29 Jun 2013 14:00:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Atomic Age - Apr 28 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=172&amp;date=5184  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_atomic_age/the_atomic_age_2013042800.mp3"
+        length="113028571"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 29 Jun 2013 14:00:37 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

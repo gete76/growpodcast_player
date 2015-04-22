@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Echo Fusion</title>
+    <link>http://www.growradio.org/show.php?name=Echo Fusion</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Echo Fusion - Dec 15 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=89&amp;date=3031</description>
+      <enclosure length="169407687"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/echo_fusion/echo_fusion_2011121500.mp3"/>
+      <pubDate>Fri, 16 Dec 2011 03:38:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Echo Fusion - Nov 17 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=89&amp;date=2911</description>
+      <enclosure length="168559457"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/echo_fusion/echo_fusion_2011111700.mp3"/>
+      <pubDate>Sat, 19 Nov 2011 03:39:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Echo Fusion - Nov 03 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=89&amp;date=3016</description>
+      <enclosure length="165664833"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/echo_fusion/echo_fusion_2011110300.mp3"/>
+      <pubDate>Fri, 04 Nov 2011 02:39:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Echo Fusion - Oct 20 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=89&amp;date=2952</description>
+      <enclosure length="172983399"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/echo_fusion/echo_fusion_2011102000.mp3"/>
+      <pubDate>Fri, 21 Oct 2011 02:40:16 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

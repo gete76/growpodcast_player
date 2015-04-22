@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Paper Beats Rock</title>
+    <link>http://www.growradio.org/show.php?name=Paper Beats Rock</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Paper Beats Rock - Dec 07 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=7193  </description>
+      <enclosure type="audio/mpeg"
+        length="113256917"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014120700.mp3"/>
+      <pubDate>Sun, 07 Dec 2014 17:01:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Nov 02 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=7104  </description>
+      <enclosure type="audio/mpeg"
+        length="179849891"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014110200.mp3"/>
+      <pubDate>Sun, 02 Nov 2014 18:07:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Oct 05 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=7015  </description>
+      <enclosure type="audio/mpeg"
+        length="118018598"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014100500.mp3"/>
+      <pubDate>Wed, 29 Oct 2014 11:02:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Sep 07 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=6917  </description>
+      <enclosure type="audio/mpeg"
+        length="119053889"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014090700.mp3"/>
+      <pubDate>Sun, 07 Sep 2014 17:01:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Aug 03 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=6808  </description>
+      <enclosure type="audio/mpeg"
+        length="118930181"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014080300.mp3"/>
+      <pubDate>Sun, 03 Aug 2014 17:01:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Jun 01 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=6627  </description>
+      <enclosure type="audio/mpeg"
+        length="134180747"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014060100.mp3"/>
+      <pubDate>Sun, 01 Jun 2014 17:00:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - May 04 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=6547  </description>
+      <enclosure type="audio/mpeg"
+        length="117016860"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014050400.mp3"/>
+      <pubDate>Sun, 04 May 2014 17:03:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Apr 06 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=6467  </description>
+      <enclosure type="audio/mpeg"
+        length="84657983"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014040600.mp3"/>
+      <pubDate>Sun, 06 Apr 2014 16:59:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Paper Beats Rock - Mar 02 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=49&amp;date=6360  </description>
+      <enclosure type="audio/mpeg"
+        length="115459941"
+        url="https://s3.amazonaws.com/growradio/paper_beats_rock/paper_beats_rock_2014030200.mp3"/>
+      <pubDate>Sun, 02 Mar 2014 19:03:56 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

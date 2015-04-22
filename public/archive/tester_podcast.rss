@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Tester</title>
+    <link>http://www.growradio.org/show.php?name=Tester</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Tester - Jan 26 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=114&amp;date=3161				    				    				 Comment for the day				  </description>
+      <enclosure length="114846"
+        url="https://s3.amazonaws.com/growradio/tester/tester_2012012600.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 26 Jan 2012 10:42:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tester - Jan 25 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=114&amp;date=3156 
+				    				     tester...ugggg				  				  				  </description>
+      <enclosure length="295077"
+        url="https://s3.amazonaws.com/growradio/tester/tester_2012012500.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 25 Jan 2012 21:05:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tester - Jan 24 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=114&amp;date=3152</description>
+      <enclosure length="69668"
+        url="https://s3.amazonaws.com/growradio/tester/tester_2012012400.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 24 Jan 2012 21:57:46 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tester - Jan 23 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=114&amp;date=3149</description>
+      <enclosure length="1337747"
+        url="https://s3.amazonaws.com/growradio/tester/tester_2012012300.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 24 Jan 2012 11:23:51 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

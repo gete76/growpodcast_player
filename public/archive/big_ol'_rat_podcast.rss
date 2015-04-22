@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Big Ol' Rat</title>
+    <link>http://www.growradio.org/show.php?name=Big Ol' Rat</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Big Ol' Rat - Jun 13 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=108&amp;date=2326</description>
+      <enclosure length="172072570"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/big_ol'_rat/big_ol'_rat_2011061300.mp3"/>
+      <pubDate>Tue, 14 Jun 2011 02:22:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Big Ol' Rat - Jun 06 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=108&amp;date=2292</description>
+      <enclosure length="167912800"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/big_ol'_rat/big_ol'_rat_2011060600.mp3"/>
+      <pubDate>Tue, 07 Jun 2011 02:20:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Big Ol' Rat - May 30 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=108&amp;date=2253</description>
+      <enclosure length="174210360"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/big_ol'_rat/big_ol'_rat_2011053000.mp3"/>
+      <pubDate>Tue, 31 May 2011 02:19:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Big Ol' Rat - May 23 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=108&amp;date=2220</description>
+      <enclosure length="181989036"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/big_ol'_rat/big_ol'_rat_2011052300.mp3"/>
+      <pubDate>Tue, 24 May 2011 02:21:23 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

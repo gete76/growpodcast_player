@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Ansible</title>
+    <link>http://www.growradio.org/show.php?name=The Ansible</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Ansible - Aug 11 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=165&amp;date=4032  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_ansible/the_ansible_2012081100.mp3"
+        length="116621338"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 11 Aug 2012 15:01:48 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

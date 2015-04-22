@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Erosion</title>
+    <link>http://www.growradio.org/show.php?name=Erosion</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Erosion - Mar 13 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=39&amp;date=6393  </description>
+      <enclosure type="audio/mpeg"
+        length="70622518"
+        url="https://s3.amazonaws.com/growradio/erosion/erosion_2014031300.mp3"/>
+      <pubDate>Thu, 13 Mar 2014 19:24:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Erosion - Jan 16 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=39&amp;date=6215  </description>
+      <enclosure type="audio/mpeg"
+        length="92480112"
+        url="https://s3.amazonaws.com/growradio/erosion/erosion_2014011600.mp3"/>
+      <pubDate>Thu, 16 Jan 2014 19:37:11 -0500</pubDate>
+    </item>
+    <item>
+      <title>Erosion - Dec 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=39&amp;date=6173  </description>
+      <enclosure type="audio/mpeg"
+        length="100099535"
+        url="https://s3.amazonaws.com/growradio/erosion/erosion_2013121200.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:02:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Erosion - Oct 24 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=39&amp;date=5971  </description>
+      <enclosure type="audio/mpeg"
+        length="107788284"
+        url="https://s3.amazonaws.com/growradio/erosion/erosion_2013102400.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:01:51 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

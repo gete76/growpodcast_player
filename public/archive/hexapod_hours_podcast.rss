@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Hexapod Hours</title>
+    <link>http://www.growradio.org/show.php?name=Hexapod Hours</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Hexapod Hours - Jul 03 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=152&amp;date=3865  </description>
+      <enclosure length="119930321"
+        url="https://s3.amazonaws.com/growradio/hexapod_hours/hexapod_hours_2012070300.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 03 Jul 2012 14:01:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hexapod Hours - Jun 19 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=152&amp;date=3803  </description>
+      <enclosure length="57304607"
+        url="https://s3.amazonaws.com/growradio/hexapod_hours/hexapod_hours_2012061900.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jun 2012 12:58:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hexapod Hours - Jun 05 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=152&amp;date=3739  </description>
+      <enclosure length="116659716"
+        url="https://s3.amazonaws.com/growradio/hexapod_hours/hexapod_hours_2012060500.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 07 Jun 2012 07:47:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Hexapod Hours - May 22 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=152&amp;date=3675  </description>
+      <enclosure length="118167319"
+        url="https://s3.amazonaws.com/growradio/hexapod_hours/hexapod_hours_2012052200.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 22 May 2012 14:00:49 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

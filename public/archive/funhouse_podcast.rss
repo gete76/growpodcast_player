@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Funhouse</title>
+    <link>http://www.growradio.org/show.php?name=Funhouse</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Funhouse - Apr 30 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=197&amp;date=6534  </description>
+      <enclosure type="audio/mpeg"
+        length="113138190"
+        url="https://s3.amazonaws.com/growradio/funhouse/funhouse_2014043000.mp3"/>
+      <pubDate>Wed, 30 Apr 2014 20:57:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Funhouse - Feb 05 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=197&amp;date=6299  </description>
+      <enclosure type="audio/mpeg"
+        length="112660453"
+        url="https://s3.amazonaws.com/growradio/funhouse/funhouse_2014020500.mp3"/>
+      <pubDate>Wed, 05 Feb 2014 21:02:56 -0500</pubDate>
+    </item>
+    <item>
+      <title>Funhouse - Jan 22 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=197&amp;date=6238  </description>
+      <enclosure type="audio/mpeg"
+        length="71253247"
+        url="https://s3.amazonaws.com/growradio/funhouse/funhouse_2014012200.mp3"/>
+      <pubDate>Wed, 22 Jan 2014 21:16:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>Funhouse - Dec 11 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=197&amp;date=6167  </description>
+      <enclosure type="audio/mpeg"
+        length="1335296"
+        url="https://s3.amazonaws.com/growradio/funhouse/funhouse_2013121100.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:22:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Funhouse - Dec 04 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=197&amp;date=6133  </description>
+      <enclosure type="audio/mpeg"
+        length="103854474"
+        url="https://s3.amazonaws.com/growradio/funhouse/funhouse_2013120400.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:21:51 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

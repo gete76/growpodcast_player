@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>This is Jazz</title>
+    <link>http://www.growradio.org/show.php?name=This is Jazz</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>This is Jazz - Aug 20 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=67&amp;date=1159</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/this_is_jazz/this_is_jazz_2010082000.mp3"
+        length="173496094"/>
+      <pubDate>Sat, 21 Aug 2010 02:14:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>This Is Jazz - Aug 13 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=67&amp;date=1139</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/this_is_jazz/this_is_jazz_2010081300.mp3"
+        length="173951160"/>
+      <pubDate>Sun, 15 Aug 2010 03:06:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>This is Jazz - Aug 06 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=67&amp;date=1117</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/this_is_jazz/this_is_jazz_2010080600.mp3"
+        length="261655063"/>
+      <pubDate>Sun, 15 Aug 2010 02:56:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>This is Jazz - Jul 30 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=67&amp;date=1096</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/this_is_jazz/this_is_jazz_2010073000.mp3"
+        length="173596880"/>
+      <pubDate>Sat, 31 Jul 2010 02:23:52 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

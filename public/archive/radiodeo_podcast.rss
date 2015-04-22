@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Radiodeo</title>
+    <link>http://www.growradio.org/show.php?name=Radiodeo</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Radiodeo - Feb 12 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=96&amp;date=6326  </description>
+      <enclosure type="audio/mpeg"
+        length="91903751"
+        url="https://s3.amazonaws.com/growradio/radiodeo/radiodeo_2014021200.mp3"/>
+      <pubDate>Thu, 13 Feb 2014 00:41:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>Radiodeo - Jan 29 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=96&amp;date=6271  Shopping List</description>
+      <enclosure type="audio/mpeg"
+        length="111654065"
+        url="https://s3.amazonaws.com/growradio/radiodeo/radiodeo_2014012900.mp3"/>
+      <pubDate>Thu, 30 Jan 2014 01:00:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Radiodeo - Jan 22 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=96&amp;date=6239  Dull Knives</description>
+      <enclosure type="audio/mpeg"
+        length="120694385"
+        url="https://s3.amazonaws.com/growradio/radiodeo/radiodeo_2014012200.mp3"/>
+      <pubDate>Thu, 23 Jan 2014 01:06:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Radiodeo - Jan 15 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=96&amp;date=6212  next time won't you sing with me?</description>
+      <enclosure type="audio/mpeg"
+        length="100405480"
+        url="https://s3.amazonaws.com/growradio/radiodeo/radiodeo_2014011500.mp3"/>
+      <pubDate>Thu, 16 Jan 2014 00:49:27 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

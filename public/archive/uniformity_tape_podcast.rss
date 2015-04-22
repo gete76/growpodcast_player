@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Uniformity Tape</title>
+    <link>http://www.growradio.org/show.php?name=Uniformity Tape</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Uniformity Tape - Jul 08 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=134&amp;date=3888  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/uniformity_tape/uniformity_tape_2012070800.mp3"
+        length="96669138"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 08 Jul 2012 16:40:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Uniformity Tape - Jun 24 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=134&amp;date=3823  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/uniformity_tape/uniformity_tape_2012062400.mp3"
+        length="115875294"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 24 Jun 2012 17:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Uniformity Tape - Jun 17 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=134&amp;date=3793  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/uniformity_tape/uniformity_tape_2012061700.mp3"
+        length="115373053"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 17 Jun 2012 17:00:48 -0400</pubDate>
+    </item>
+    <item>
+      <title>Uniformity Tape_Apr 25 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=134&amp;date=3537  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/uniformity_tape/uniformity_tape_2012042500.mp3"
+        length="12580"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 24 Jun 2012 04:00:47 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

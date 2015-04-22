@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Left Of The Dial</title>
+    <link>http://www.growradio.org/show.php?name=Left Of The Dial</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Left Of The Dial - Aug 11 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=68&amp;date=5664  </description>
+      <enclosure length="115623044"
+        url="https://s3.amazonaws.com/growradio/left_of_the_dial/left_of_the_dial_2013081100.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Aug 2013 17:00:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Left Of The Dial - Jun 09 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=68&amp;date=5384  </description>
+      <enclosure length="56598427"
+        url="https://s3.amazonaws.com/growradio/left_of_the_dial/left_of_the_dial_2013060900.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:18 -0400</pubDate>
+    </item>
+    <item>
+      <title>Left Of The Dial - May 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=68&amp;date=5250  </description>
+      <enclosure length="113803169"
+        url="https://s3.amazonaws.com/growradio/left_of_the_dial/left_of_the_dial_2013051200.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>Left Of The Dial - Apr 14 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=68&amp;date=5121  </description>
+      <enclosure length="63635190"
+        url="https://s3.amazonaws.com/growradio/left_of_the_dial/left_of_the_dial_2013041400.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:01 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

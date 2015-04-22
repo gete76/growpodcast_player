@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Music for squares</title>
+    <link>http://www.growradio.org/show.php?name=Music for squares</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Music for squares - May 02 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=85&amp;date=2104</description>
+      <enclosure length="84882043"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_squares/music_for_squares_2011050200.mp3"/>
+      <pubDate>Tue, 03 May 2011 02:57:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Music for squares - Apr 25 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=85&amp;date=2066</description>
+      <enclosure length="83937409"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_squares/music_for_squares_2011042500.mp3"/>
+      <pubDate>Tue, 26 Apr 2011 03:00:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Music for squares - Apr 18 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=85&amp;date=2029</description>
+      <enclosure length="84397519"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_squares/music_for_squares_2011041800.mp3"/>
+      <pubDate>Tue, 19 Apr 2011 03:13:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Music for squares - Apr 14 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=85&amp;date=2006</description>
+      <enclosure length="167174751"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_squares/music_for_squares_2011041400.mp3"/>
+      <pubDate>Fri, 15 Apr 2011 02:36:08 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

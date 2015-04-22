@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Residents Radio Hour</title>
+    <link>http://www.growradio.org/show.php?name=The Residents Radio Hour</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Residents Radio Hour - Apr 22 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=7&amp;date=5159  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013042200.mp3"
+        type="audio/mpeg"
+        length="60817953"/>
+      <pubDate>Mon, 22 Apr 2013 23:03:21 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Residents Radio Hour - Mar 25 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=7&amp;date=5028  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013032500.mp3"
+        type="audio/mpeg"
+        length="56785537"/>
+      <pubDate>Mon, 25 Mar 2013 22:58:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Residents Radio Hour - Mar 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=7&amp;date=4988  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013031800.mp3"
+        type="audio/mpeg"
+        length="62159184"/>
+      <pubDate>Mon, 18 Mar 2013 23:01:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Residents Radio Hour - Feb 25 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=7&amp;date=4888  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013022500.mp3"
+        type="audio/mpeg"
+        length="40912228"/>
+      <pubDate>Mon, 25 Feb 2013 22:41:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Residents Radio Hour - Feb 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=7&amp;date=4848  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013021800.mp3"
+        type="audio/mpeg"
+        length="60196888"/>
+      <pubDate>Sun, 07 Apr 2013 04:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Residents Radio Hour - Jan 28 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=7&amp;date=4756  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013012800.mp3"
+        type="audio/mpeg"
+        length="58585196"/>
+      <pubDate>Sun, 07 Apr 2013 04:01:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Residents Radio Hour - Jan 21 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=7&amp;date=4728  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_residents_radio_hour/the_residents_radio_hour_2013012100.mp3"
+        type="audio/mpeg"
+        length="58409595"/>
+      <pubDate>Sun, 07 Apr 2013 04:01:02 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

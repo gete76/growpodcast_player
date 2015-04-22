@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Lab Rat Tales</title>
+    <link>http://www.growradio.org/show.php?name=Lab Rat Tales</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Lab Rat Tales - Jul 23 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=112&amp;date=3950  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/lab_rat_tales/lab_rat_tales_2012072300.mp3"
+        type="audio/mpeg"
+        length="54053704"/>
+      <pubDate>Mon, 23 Jul 2012 19:59:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lab Rat Tales - Jul 21 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=112&amp;date=3942  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/lab_rat_tales/lab_rat_tales_2012072100.mp3"
+        type="audio/mpeg"
+        length="110545492"/>
+      <pubDate>Sat, 21 Jul 2012 15:01:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lab Rat Tales - Jul 07 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=112&amp;date=3885  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/lab_rat_tales/lab_rat_tales_2012070700.mp3"
+        type="audio/mpeg"
+        length="108979807"/>
+      <pubDate>Sat, 07 Jul 2012 15:00:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lab Rat Tales - Jun 30 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=112&amp;date=3849  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/lab_rat_tales/lab_rat_tales_2012063000.mp3"
+        type="audio/mpeg"
+        length="107989682"/>
+      <pubDate>Sat, 30 Jun 2012 14:59:07 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

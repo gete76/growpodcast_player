@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Plaid Lake</title>
+    <link>http://www.growradio.org/show.php?name=Plaid Lake</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Plaid Lake - Dec 18 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=98&amp;date=3050</description>
+      <enclosure length="170788016"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/plaid_lake/plaid_lake_2011121800.mp3"/>
+      <pubDate>Mon, 19 Dec 2011 03:49:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Plaid Lake - Sep 04 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=98&amp;date=2722</description>
+      <enclosure length="257533462"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/plaid_lake/plaid_lake_2011090400.mp3"/>
+      <pubDate>Mon, 05 Sep 2011 03:00:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>Plaid Lake - Aug 28 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=98&amp;date=2694</description>
+      <enclosure length="213573864"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/plaid_lake/plaid_lake_2011082800.mp3"/>
+      <pubDate>Mon, 29 Aug 2011 02:23:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Plaid Lake - Jul 17 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=98&amp;date=2483</description>
+      <enclosure length="171123552"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/plaid_lake/plaid_lake_2011071700.mp3"/>
+      <pubDate>Mon, 18 Jul 2011 03:12:11 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

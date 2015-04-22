@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
+<head>
+<title>Grow Radio: ~~~FeedTitle~~~ Archive</title>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta name="description" content="Grow Radio" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<link rel="shortcut icon" href="../images/favicon.ico" />
+<script type='text/JavaScript' src='../scripts/main.js'></script>
+<script type='text/JavaScript'>
+var d, dom, ie, ie4, ie5x, moz, mac, win, lin, old, ie5mac, ie5xwin, op;
+
+d = document;
+n = navigator;
+na = n.appVersion;
+nua = n.userAgent;
+win = ( na.indexOf( 'Win' ) != -1 );
+mac = ( na.indexOf( 'Mac' ) != -1 );
+lin = ( nua.indexOf( 'Linux' ) != -1 );
+
+if ( !d.layers ){
+
+	ie = ( d.all && !op );
+
+}
+
+d = document;// shorthand so we don't have to write out document each time..
+if ( ie ) {
+	d.write('<link rel="stylesheet" type="text\/css" href="../css/style-ie.css" />');
+}else{
+	d.write('<link rel="stylesheet" type="text\/css" href="../css/style.css" />');
+}
+
+</script>
+
+</head>
+<body>
+	<div id="content" class="clearfix">
+	  <div id="top" class="clearfix">
+		  <a href="http://www.growradio.org">
+		    <img class="nobord" src="http://www.growradio.org/images/logo-big-red.png" />
+		  </a>
+	  </div>
+  <div id="main-side">
+		<div id="archives">
+		 <div class="big-top"></div>
+		 <div class="big-cont clearfix">
+			<div class="big-text">
+			 <span style="color:#329800;font-size:20px;font-weight:bold;"> ~~~FeedTitle~~~ Archive</span><br/>
+			 <div style="margin-left:10px">
+				 <p style="color:#329800;font-size:12px;font-weight:bold;">To save a file, right-click (apple click with mac) on the link<br/>and select "Save Target/Link As"
+         <div id="text">
+          
+	        ~~~BeginItemsRecord~~~
+          <TABLE width="100%" style="margin-bottom:5px;margin-top:10px;font-size:13px;">
+            <TR>
+                <TD>
+                    <B><A title="Click to download" href="~~~ItemEnclosureUrl~~~" type="audio/mpeg">~~~ItemTitle~~~</A></B>
+                </TD>
+            </TR>
+            <TR>
+                <TD>
+                    ~~~ItemDescription~~~
+                    <BR>
+                </TD>
+            </TR>
+
+          </TABLE>
+          ~~~EndItemsRecord~~~
+        </div>
+       </div>
+      </div>
+     </div><!--big-cont-->
+     <img class="big-bottom" src="http://www.growradio.org/images/big-bottom.png"/>
+    </div><!--archives-->
+  </div><!--main-side-->
+	<div id="sidebar">
+		<div class="side-item">
+			<div class="small-top"></div>
+			<div class="small-cont">
+				<div class="small-text">
+			   	<div style="color:black;font-size:11px;margin:0px 15px 0px 15px;">
+						 Click <a style="text-decoration:none;font-size:11px;color:red;" href="http://slice.growradio.org:8000/stream.m3u" onclick="toggle()">HERE</a> to open in your own player.&nbsp;&nbsp;&nbsp; 
+					Need <a style="color:red" href="http://www.growradio.org/help.php">help</a>?
+					</div>
+			 </div>
+			</div>
+			<img class="small-bottom" src="http://www.growradio.org/images/small-bottom.png"/>
+		</div>
+
+		<div class="side-item">
+			<div class="small-top"></div>
+			<div class="small-cont clearfix">
+			 <div class="small-text">
+			  <h3>Stuff You Should Know</h3>
+			  <ul class="list">
+				  <li><a href="../index.php" title="Where it all starts">Home</a></li>
+				  <li><a href="../about.php" title="Our reason for being">About Grow</a></li>
+				  <li><a href="../help.php" title="Need help listening?">How To Listen</a></li>
+				  <li><a href="../shows.php" title="Show descriptions">Our Shows</a></li>
+				  <li><a href="../schedule.php" title="Our weekly schedule in a pretty format">Weekly Schedule</a></li>
+				  <li><a href="../archives.php" title="Download previous shows or subscribe to a Podcast">Archives & Podcasts</a></li>
+				  <li><a href="../playlist.php" title="View a shows playlist by date">Playlists</a></li>
+				  <li><a href="../contact.php" title="Feed back and questions are good!">Contact</a></li>
+				</ul>
+			 </div>
+			</div>
+			<img class="small-bottom" src="http://www.growradio.org/images/small-bottom.png"/>
+		</div>
+	</div>
+</div><!--content-->
+<div class="footer">Copyright &copy; 2010 Grow Radio</div>
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-15369626-1");
+    pageTracker._trackPageview();
+  } 
+  catch(err) {}
+</script>
+</body>
+</html>
+

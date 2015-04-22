@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Get On the Right Thing McCartney Reconsidered with Barefoot Justine</title>
+    <link>http://www.growradio.org/show.php?name=Get On the Right Thing McCartney Reconsidered with Barefoot Justine</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Get On the Right Thing McCartney Reconsidered with Barefoot Justine - Nov 25 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=169&amp;date=6097  McCartney: First Solo Album</description>
+      <enclosure length="99860111"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine_2013112500.mp3"/>
+      <pubDate>Mon, 25 Nov 2013 14:46:59 -0500</pubDate>
+    </item>
+    <item>
+      <title>Get On the Right Thing McCartney Reconsidered with Barefoot Justine - Nov 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=169&amp;date=6065  Acoustic Showcase &amp; Working With Ringo!</description>
+      <enclosure length="104497536"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine_2013111800.mp3"/>
+      <pubDate>Mon, 18 Nov 2013 15:06:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Get On the Right Thing McCartney Reconsidered with Barefoot Justine - Nov 11 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=169&amp;date=6041  Nothing NEW 2</description>
+      <enclosure length="111890954"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine_2013111100.mp3"/>
+      <pubDate>Mon, 11 Nov 2013 15:00:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Get On the Right Thing McCartney Reconsidered with Barefoot Justine - Nov 04 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=169&amp;date=6019  What's So New About NEW?</description>
+      <enclosure length="110613266"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine/get_on_the_right_thing_mccartney_reconsidered_with_barefoot_justine_2013110400.mp3"/>
+      <pubDate>Mon, 04 Nov 2013 14:59:53 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

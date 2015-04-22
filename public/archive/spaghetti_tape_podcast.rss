@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Spaghetti Tape</title>
+    <link>http://www.growradio.org/show.php?name=Spaghetti Tape</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Spaghetti Tape - Mar 19 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=184&amp;date=4990  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/spaghetti_tape/spaghetti_tape_2013031900.mp3"
+        type="audio/mpeg"
+        length="103781212"/>
+      <pubDate>Tue, 19 Mar 2013 14:01:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Spaghetti Tape - Mar 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=184&amp;date=4953  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/spaghetti_tape/spaghetti_tape_2013031200.mp3"
+        type="audio/mpeg"
+        length="99959093"/>
+      <pubDate>Tue, 12 Mar 2013 14:01:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Spaghetti Tape - Mar 05 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=184&amp;date=4922  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/spaghetti_tape/spaghetti_tape_2013030500.mp3"
+        type="audio/mpeg"
+        length="115347788"/>
+      <pubDate>Tue, 05 Mar 2013 13:59:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>Spaghetti Tape - Feb 26 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=184&amp;date=4891  				    				  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/spaghetti_tape/spaghetti_tape_2013022600.mp3"
+        type="audio/mpeg"
+        length="107660185"/>
+      <pubDate>Tue, 26 Feb 2013 13:59:52 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

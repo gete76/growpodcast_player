@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Very Amazing and Cool Radio Show</title>
+    <link>http://www.growradio.org/show.php?name=Very Amazing and Cool Radio Show</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Very Amazing and Cool Radio Show - Mar 11 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=181&amp;date=6387  </description>
+      <enclosure type="audio/mpeg"
+        length="88193131"
+        url="https://s3.amazonaws.com/growradio/very_amazing_and_cool_radio_show/very_amazing_and_cool_radio_show_2014031100.mp3"/>
+      <pubDate>Tue, 11 Mar 2014 17:32:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Very Amazing and Cool Radio Show - Mar 04 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=181&amp;date=6367  </description>
+      <enclosure type="audio/mpeg"
+        length="59579671"
+        url="https://s3.amazonaws.com/growradio/very_amazing_and_cool_radio_show/very_amazing_and_cool_radio_show_2014030400.mp3"/>
+      <pubDate>Tue, 04 Mar 2014 17:02:41 -0500</pubDate>
+    </item>
+    <item>
+      <title>Very Amazing and Cool Radio Show - Feb 11 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=181&amp;date=6318  </description>
+      <enclosure type="audio/mpeg"
+        length="110418978"
+        url="https://s3.amazonaws.com/growradio/very_amazing_and_cool_radio_show/very_amazing_and_cool_radio_show_2014021100.mp3"/>
+      <pubDate>Tue, 11 Feb 2014 17:56:37 -0500</pubDate>
+    </item>
+    <item>
+      <title>Very Amazing and Cool Radio Show - Feb 04 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=181&amp;date=6291  </description>
+      <enclosure type="audio/mpeg"
+        length="109195936"
+        url="https://s3.amazonaws.com/growradio/very_amazing_and_cool_radio_show/very_amazing_and_cool_radio_show_2014020400.mp3"/>
+      <pubDate>Tue, 04 Feb 2014 17:54:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Very Amazing and Cool Radio Show - Jan 28 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=181&amp;date=6264  </description>
+      <enclosure type="audio/mpeg"
+        length="108581623"
+        url="https://s3.amazonaws.com/growradio/very_amazing_and_cool_radio_show/very_amazing_and_cool_radio_show_2014012800.mp3"/>
+      <pubDate>Tue, 28 Jan 2014 17:54:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>Very Amazing and Cool Radio Show - Jan 21 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=181&amp;date=6231  </description>
+      <enclosure type="audio/mpeg"
+        length="107321895"
+        url="https://s3.amazonaws.com/growradio/very_amazing_and_cool_radio_show/very_amazing_and_cool_radio_show_2014012100.mp3"/>
+      <pubDate>Tue, 21 Jan 2014 17:54:11 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

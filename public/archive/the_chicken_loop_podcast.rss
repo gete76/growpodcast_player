@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Chicken Loop</title>
+    <link>http://www.growradio.org/show.php?name=The Chicken Loop</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Chicken Loop_Apr 22 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=77&amp;date=3524  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_chicken_loop/the_chicken_loop_2012042200.mp3"
+        type="audio/mpeg"
+        length="120589032"/>
+      <pubDate>Mon, 23 Apr 2012 21:22:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Chicken Loop_Apr 15 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=77&amp;date=3493  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_chicken_loop/the_chicken_loop_2012041500.mp3"
+        type="audio/mpeg"
+        length="114463774"/>
+      <pubDate>Sun, 15 Apr 2012 17:01:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Chicken Loop - Feb 26 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=77&amp;date=3305  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_chicken_loop/the_chicken_loop_2012022600.mp3"
+        type="audio/mpeg"
+        length="113662394"/>
+      <pubDate>Sun, 26 Feb 2012 17:00:48 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Chicken Loop - Feb 24 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=77&amp;date=3293</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/the_chicken_loop/the_chicken_loop_2012022400.mp3"
+        type="audio/mpeg"
+        length="66579506"/>
+      <pubDate>Fri, 24 Feb 2012 21:13:29 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Boots and Cats</title>
+    <link>http://www.growradio.org/show.php?name=Boots and Cats</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Boots and Cats - Jun 01 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=185&amp;date=5348  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boots_and_cats/boots_and_cats_2013060100.mp3"
+        length="141456900"/>
+      <pubDate>Sun, 02 Jun 2013 11:09:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boots and Cats - May 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=185&amp;date=5302  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boots_and_cats/boots_and_cats_2013052300.mp3"
+        length="99997863"/>
+      <pubDate>Thu, 23 May 2013 11:00:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boots and Cats - May 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=185&amp;date=5280  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boots_and_cats/boots_and_cats_2013051800.mp3"
+        length="112987198"/>
+      <pubDate>Sat, 18 May 2013 17:03:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>Boots and Cats - May 08 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=185&amp;date=5235  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boots_and_cats/boots_and_cats_2013050800.mp3"
+        length="109685252"/>
+      <pubDate>Wed, 08 May 2013 15:00:08 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

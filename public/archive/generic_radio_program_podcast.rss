@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Generic Radio Program</title>
+    <link>http://www.growradio.org/show.php?name=Generic Radio Program</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Generic Radio Program - Jun 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=189&amp;date=5450  Sounds and Pop from a new genre every show.</description>
+      <enclosure type="audio/mpeg"
+        length="74206832"
+        url="https://s3.amazonaws.com/growradio/generic_radio_program/generic_radio_program_2013062300.mp3"/>
+      <pubDate>Sun, 23 Jun 2013 13:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Generic Radio Program - May 05 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=189&amp;date=5219  </description>
+      <enclosure type="audio/mpeg"
+        length="104088874"
+        url="https://s3.amazonaws.com/growradio/generic_radio_program/generic_radio_program_2013050500.mp3"/>
+      <pubDate>Sun, 05 May 2013 11:04:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Generic Radio Program - Apr 28 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=189&amp;date=5182  A series of alternating patterns of sound and silence, broadcast on Internet radio.</description>
+      <enclosure type="audio/mpeg"
+        length="114811257"
+        url="https://s3.amazonaws.com/growradio/generic_radio_program/generic_radio_program_2013042800.mp3"/>
+      <pubDate>Sun, 28 Apr 2013 11:00:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>Generic Radio Program - Apr 07 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=189&amp;date=5086  </description>
+      <enclosure type="audio/mpeg"
+        length="84757825"
+        url="https://s3.amazonaws.com/growradio/generic_radio_program/generic_radio_program_2013040700.mp3"/>
+      <pubDate>Sun, 07 Apr 2013 11:01:34 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

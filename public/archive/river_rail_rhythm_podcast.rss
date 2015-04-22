@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>river rail rhythm</title>
+    <link>http://www.growradio.org/show.php?name=river rail rhythm</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>river rail rhythm - Feb 11 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=168&amp;date=6319  </description>
+      <enclosure type="audio/mpeg"
+        length="112056091"
+        url="https://s3.amazonaws.com/growradio/river_rail_rhythm/river_rail_rhythm_2014021100.mp3"/>
+      <pubDate>Tue, 11 Feb 2014 21:57:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>river rail rhythm - Feb 04 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=168&amp;date=6292  </description>
+      <enclosure type="audio/mpeg"
+        length="115854080"
+        url="https://s3.amazonaws.com/growradio/river_rail_rhythm/river_rail_rhythm_2014020400.mp3"/>
+      <pubDate>Tue, 04 Feb 2014 21:58:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>river rail rhythm - Jan 28 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=168&amp;date=6265  </description>
+      <enclosure type="audio/mpeg"
+        length="116229840"
+        url="https://s3.amazonaws.com/growradio/river_rail_rhythm/river_rail_rhythm_2014012800.mp3"/>
+      <pubDate>Tue, 28 Jan 2014 22:00:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>river rail rhythm - Jan 21 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=168&amp;date=6232  </description>
+      <enclosure type="audio/mpeg"
+        length="114889031"
+        url="https://s3.amazonaws.com/growradio/river_rail_rhythm/river_rail_rhythm_2014012100.mp3"/>
+      <pubDate>Tue, 21 Jan 2014 21:57:17 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

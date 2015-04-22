@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Critical Ear</title>
+    <link>http://www.growradio.org/show.php?name=The Critical Ear</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Critical Ear - May 15 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=60&amp;date=2172</description>
+      <enclosure length="167011364"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_critical_ear/the_critical_ear_2011051500.mp3"/>
+      <pubDate>Mon, 16 May 2011 03:40:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Critical Ear - Mar 20 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=60&amp;date=1875</description>
+      <enclosure length="146694534"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_critical_ear/the_critical_ear_2011032000.mp3"/>
+      <pubDate>Mon, 28 Mar 2011 04:35:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Critical Ear - Feb 20 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=60&amp;date=1726</description>
+      <enclosure length="173793448"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_critical_ear/the_critical_ear_2011022000.mp3"/>
+      <pubDate>Mon, 21 Feb 2011 02:49:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Critical Ear - Sep 19 2010</title>
+      <description>Iggy Pop - The Idiot and Lust for Life: Iggy Pop - The Idiot and Lust for Life Playlist@ http://www.growradio.org/playlist.php?show=60&amp;date=1248</description>
+      <enclosure length="192581045"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_critical_ear/the_critical_ear_2010091900.mp3"/>
+      <pubDate>Mon, 20 Sep 2010 01:34:00 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

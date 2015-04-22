@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>World Music Wednesdays</title>
+    <link>http://www.growradio.org/show.php?name=World Music Wednesdays</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>World Music Wednesdays - Aug 17 2011</title>
+      <description> Playlist@ &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt;
+&lt;html&gt;&lt;head&gt;
+&lt;title&gt;404 Not Found&lt;/title&gt;
+&lt;/head&gt;&lt;body&gt;
+&lt;h1&gt;Not Found&lt;/h1&gt;
+&lt;p&gt;The requested URL /responder/podcast_responder.php was not found on this server.&lt;/p&gt;
+&lt;hr&gt;
+&lt;address&gt;Apache/2.2.17 (Fedora) Server at www.growradio.org Port 80&lt;/address&gt;
+&lt;/body&gt;&lt;/html&gt;
+</description>
+      <enclosure length="166700505"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/world_music_wednesdays/world_music_wednesdays_2011081700.mp3"/>
+      <pubDate>Sat, 12 Nov 2011 09:20:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>World Music Wednesdays - Aug 10 2011</title>
+      <description> Playlist@ &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt;
+&lt;html&gt;&lt;head&gt;
+&lt;title&gt;404 Not Found&lt;/title&gt;
+&lt;/head&gt;&lt;body&gt;
+&lt;h1&gt;Not Found&lt;/h1&gt;
+&lt;p&gt;The requested URL /responder/podcast_responder.php was not found on this server.&lt;/p&gt;
+&lt;hr&gt;
+&lt;address&gt;Apache/2.2.17 (Fedora) Server at www.growradio.org Port 80&lt;/address&gt;
+&lt;/body&gt;&lt;/html&gt;
+</description>
+      <enclosure length="168919049"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/world_music_wednesdays/world_music_wednesdays_2011081000.mp3"/>
+      <pubDate>Sat, 12 Nov 2011 09:02:33 -0500</pubDate>
+    </item>
+    <item>
+      <title>World Music Wednesdays - Jun 29 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=107&amp;date=2397</description>
+      <enclosure length="125697249"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/world_music_wednesdays/world_music_wednesdays_2011062900.mp3"/>
+      <pubDate>Thu, 30 Jun 2011 03:23:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>World Music Wednesdays - May 11 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=107&amp;date=2148</description>
+      <enclosure length="166038567"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/world_music_wednesdays/world_music_wednesdays_2011051100.mp3"/>
+      <pubDate>Thu, 12 May 2011 03:49:42 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

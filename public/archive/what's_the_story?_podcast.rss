@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>What's the Story?</title>
+    <link>http://www.growradio.org/show.php?name=What's the Story%3F</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>What's the Story? - Sep 09 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=191&amp;date=6927  Farewell... the best last songs.</description>
+      <enclosure type="audio/mpeg"
+        length="111754301"
+        url="https://s3.amazonaws.com/growradio/what's_the_story%253F/what's_the_story%253F_2014090900.mp3"/>
+      <pubDate>Tue, 09 Sep 2014 21:59:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>What's the Story? - Sep 02 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=191&amp;date=6902  The Big Mix Up</description>
+      <enclosure type="audio/mpeg"
+        length="109684189"
+        url="https://s3.amazonaws.com/growradio/what's_the_story%253F/what's_the_story%253F_2014090200.mp3"/>
+      <pubDate>Tue, 02 Sep 2014 21:58:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>What's the Story? - Aug 19 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=191&amp;date=6858  To Hell With Rock n Roll</description>
+      <enclosure type="audio/mpeg"
+        length="118445029"
+        url="https://s3.amazonaws.com/growradio/what's_the_story%253F/what's_the_story%253F_2014081900.mp3"/>
+      <pubDate>Tue, 19 Aug 2014 22:04:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>What's the Story? - Aug 12 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=191&amp;date=6838  New Weird Era, cont.</description>
+      <enclosure type="audio/mpeg"
+        length="114624032"
+        url="https://s3.amazonaws.com/growradio/what's_the_story%253F/what's_the_story%253F_2014081200.mp3"/>
+      <pubDate>Tue, 12 Aug 2014 22:01:57 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Tasty Jams</title>
+    <link>http://www.growradio.org/show.php?name=Tasty Jams</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Tasty Jams - Aug 28 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=103&amp;date=2692</description>
+      <enclosure length="170874405"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/tasty_jams/tasty_jams_2011082800.mp3"/>
+      <pubDate>Mon, 29 Aug 2011 02:38:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tasty Jams - Aug 14 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=103&amp;date=2622</description>
+      <enclosure length="163493865"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/tasty_jams/tasty_jams_2011081400.mp3"/>
+      <pubDate>Mon, 15 Aug 2011 03:04:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tasty Jams - Aug 07 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=103&amp;date=2590</description>
+      <enclosure length="171842827"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/tasty_jams/tasty_jams_2011080700.mp3"/>
+      <pubDate>Mon, 08 Aug 2011 03:24:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tasty Jams - Jul 31 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=103&amp;date=2556</description>
+      <enclosure length="171789617"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/tasty_jams/tasty_jams_2011073100.mp3"/>
+      <pubDate>Mon, 01 Aug 2011 03:42:45 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

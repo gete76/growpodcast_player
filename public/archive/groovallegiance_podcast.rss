@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Groovallegiance</title>
+    <link>http://www.growradio.org/show.php?name=Groovallegiance</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Groovallegiance - Apr 30 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=175&amp;date=5196  </description>
+      <enclosure length="116015707"
+        url="https://s3.amazonaws.com/growradio/groovallegiance/groovallegiance_2013043000.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 30 Apr 2013 17:59:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Groovallegiance - Apr 16 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=175&amp;date=5130  </description>
+      <enclosure length="8975544"
+        url="https://s3.amazonaws.com/growradio/groovallegiance/groovallegiance_2013041600.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 16 Apr 2013 18:13:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Groovallegiance - Apr 02 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=175&amp;date=5061  </description>
+      <enclosure length="113687289"
+        url="https://s3.amazonaws.com/growradio/groovallegiance/groovallegiance_2013040200.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 02 Apr 2013 17:57:58 -0400</pubDate>
+    </item>
+    <item>
+      <title>Groovallegiance - Mar 20 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=175&amp;date=4995  </description>
+      <enclosure length="120041428"
+        url="https://s3.amazonaws.com/growradio/groovallegiance/groovallegiance_2013032000.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 20 Mar 2013 15:00:19 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

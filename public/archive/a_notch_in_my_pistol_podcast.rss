@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>A Notch in My Pistol</title>
+    <link>http://www.growradio.org/show.php?name=A Notch in My Pistol</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>A Notch in My Pistol - Aug 19 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6857  A country music show hosted by Chelsea Carnes. This week's theme: Protest (in honor of those fightin</description>
+      <enclosure type="audio/mpeg"
+        length="60754909"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014081900.mp3"/>
+      <pubDate>Tue, 19 Aug 2014 15:19:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - Jul 22 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6777  A country music show hosted by Chelsea Carnes. This week's theme: rain.</description>
+      <enclosure type="audio/mpeg"
+        length="75855342"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014072200.mp3"/>
+      <pubDate>Tue, 22 Jul 2014 15:22:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - Jul 08 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6735  A country music show hosted by Chelsea Carnes. This week's theme: the bayou.</description>
+      <enclosure type="audio/mpeg"
+        length="98635017"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014070800.mp3"/>
+      <pubDate>Tue, 08 Jul 2014 15:44:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - May 25 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6609  A country music show hosted by Chelsea Carnes. Today's theme: Love affairs.</description>
+      <enclosure type="audio/mpeg"
+        length="57905318"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014052500.mp3"/>
+      <pubDate>Sun, 25 May 2014 16:04:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - May 18 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6587  A country music show hosted by Chelsea Carnes. Today's theme: summer.</description>
+      <enclosure type="audio/mpeg"
+        length="76430942"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014051800.mp3"/>
+      <pubDate>Sun, 18 May 2014 16:26:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - Mar 16 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6401  A country music show hosted by Chelsea Carnes. Today's theme: dancing, with special guests The Reson</description>
+      <enclosure type="audio/mpeg"
+        length="63897611"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014031600.mp3"/>
+      <pubDate>Sun, 16 Mar 2014 16:16:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - Mar 09 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6382  a country music show hosted by Chelsea Carnes. This week's theme: Women (In honor of Women's History</description>
+      <enclosure type="audio/mpeg"
+        length="86516699"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014030900.mp3"/>
+      <pubDate>Sun, 09 Mar 2014 16:31:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - Feb 16 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6335  A country music show hosted by Chelsea Carnes. Today's theme: I Love You, Honey</description>
+      <enclosure type="audio/mpeg"
+        length="77590338"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014021600.mp3"/>
+      <pubDate>Sun, 16 Feb 2014 16:22:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>A Notch in My Pistol - Jan 26 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=195&amp;date=6253  A country music show hosted by Chelsea Carnes. Today's theme: Farming &amp; FOOD</description>
+      <enclosure type="audio/mpeg"
+        length="66036257"
+        url="https://s3.amazonaws.com/growradio/a_notch_in_my_pistol/a_notch_in_my_pistol_2014012600.mp3"/>
+      <pubDate>Sun, 26 Jan 2014 16:16:55 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

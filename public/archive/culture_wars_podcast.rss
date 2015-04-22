@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Culture Wars</title>
+    <link>http://www.growradio.org/show.php?name=Culture Wars</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Culture Wars - May 12 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6569  </description>
+      <enclosure type="audio/mpeg"
+        length="46905815"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2014051200.mp3"/>
+      <pubDate>Mon, 12 May 2014 22:56:57 -0400</pubDate>
+    </item>
+    <item>
+      <title>Culture Wars - Apr 28 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6527  </description>
+      <enclosure type="audio/mpeg"
+        length="57628617"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2014042800.mp3"/>
+      <pubDate>Mon, 28 Apr 2014 22:59:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Culture Wars - Mar 24 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6429  in defense of the 7&quot; record</description>
+      <enclosure type="audio/mpeg"
+        length="62973435"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2014032400.mp3"/>
+      <pubDate>Mon, 24 Mar 2014 23:04:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>Culture Wars - Mar 10 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6386  CDs</description>
+      <enclosure type="audio/mpeg"
+        length="12508222"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2014031000.mp3"/>
+      <pubDate>Mon, 10 Mar 2014 23:02:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Culture Wars - Feb 10 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6316  instrumental</description>
+      <enclosure type="audio/mpeg"
+        length="48560562"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2014021000.mp3"/>
+      <pubDate>Mon, 10 Feb 2014 22:45:53 -0500</pubDate>
+    </item>
+    <item>
+      <title>Culture Wars - Jan 27 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6261  </description>
+      <enclosure type="audio/mpeg"
+        length="60658407"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2014012700.mp3"/>
+      <pubDate>Mon, 27 Jan 2014 22:58:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Culture Wars - Dec 09 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=136&amp;date=6155  </description>
+      <enclosure type="audio/mpeg"
+        length="28778352"
+        url="https://s3.amazonaws.com/growradio/culture_wars/culture_wars_2013120900.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:21:05 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

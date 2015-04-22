@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Chimpanzoo</title>
+    <link>http://www.growradio.org/show.php?name=Chimpanzoo</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Chimpanzoo - Sep 18 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=65&amp;date=1241</description>
+      <enclosure length="91083818"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/chimpanzoo/chimpanzoo_2010091800.mp3"/>
+      <pubDate>Sun, 19 Sep 2010 01:11:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chimpanzoo - Aug 28 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=65&amp;date=1181</description>
+      <enclosure length="83592476"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/chimpanzoo/chimpanzoo_2010082800.mp3"/>
+      <pubDate>Sun, 29 Aug 2010 01:33:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chimpanzoo - Jul 17 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=65&amp;date=1062</description>
+      <enclosure length="75449468"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/chimpanzoo/chimpanzoo_2010071700.mp3"/>
+      <pubDate>Sun, 18 Jul 2010 01:08:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Chimpanzoo - May 22 2010</title>
+      <description>Chimpanzoo3:  Playlist@ http://www.growradio.org/playlist.php?show=65&amp;date=904</description>
+      <enclosure length="36878975"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/chimpanzoo/chimpanzoo_2010052200.mp3"/>
+      <pubDate>Tue, 08 Jun 2010 01:07:23 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

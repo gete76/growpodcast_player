@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Seoulmates-Kpop Radio</title>
+    <link>http://www.growradio.org/show.php?name=Seoulmates-Kpop Radio</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Seoulmates-Kpop Radio - Dec 09 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=190&amp;date=6152  </description>
+      <enclosure length="116980536"
+        url="https://s3.amazonaws.com/growradio/seoulmates-kpop_radio/seoulmates-kpop_radio_2013120900.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 09 Dec 2013 17:03:44 -0500</pubDate>
+    </item>
+    <item>
+      <title>Seoulmates-Kpop Radio - Dec 02 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=190&amp;date=6119  </description>
+      <enclosure length="42727282"
+        url="https://s3.amazonaws.com/growradio/seoulmates-kpop_radio/seoulmates-kpop_radio_2013120200.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 02 Dec 2013 17:04:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Seoulmates-Kpop Radio - Nov 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=190&amp;date=6066  </description>
+      <enclosure length="8528"
+        url="https://s3.amazonaws.com/growradio/seoulmates-kpop_radio/seoulmates-kpop_radio_2013111800.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 18 Nov 2013 18:42:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Seoulmates-Kpop Radio - Nov 04 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=190&amp;date=6020  </description>
+      <enclosure length="115126841"
+        url="https://s3.amazonaws.com/growradio/seoulmates-kpop_radio/seoulmates-kpop_radio_2013110400.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 04 Nov 2013 17:06:57 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

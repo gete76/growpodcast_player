@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>A Train Full of Tricks</title>
+    <link>http://www.growradio.org/show.php?name=A Train Full of Tricks</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>A Train Full of Tricks - Oct 18 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=192&amp;date=5941  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/a_train_full_of_tricks/a_train_full_of_tricks_2013101800.mp3"
+        length="3424727"/>
+      <pubDate>Sat, 19 Oct 2013 14:55:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Train Full of Tricks - Sep 13 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=192&amp;date=5798  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/a_train_full_of_tricks/a_train_full_of_tricks_2013091300.mp3"
+        length="272162471"/>
+      <pubDate>Fri, 13 Sep 2013 23:57:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>A Train Full of Tricks - May 03 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=192&amp;date=5214  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/a_train_full_of_tricks/a_train_full_of_tricks_2013050300.mp3"
+        length="24878"/>
+      <pubDate>Fri, 16 Aug 2013 04:04:24 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

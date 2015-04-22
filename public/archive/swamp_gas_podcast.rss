@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Swamp Gas</title>
+    <link>http://www.growradio.org/show.php?name=Swamp Gas</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Swamp Gas - Dec 20 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=48&amp;date=1487</description>
+      <enclosure length="93729293"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_gas/swamp_gas_2010122000.mp3"/>
+      <pubDate>Tue, 21 Dec 2010 02:21:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swamp Gas - Dec 13 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=48&amp;date=1470</description>
+      <enclosure length="118666629"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_gas/swamp_gas_2010121300.mp3"/>
+      <pubDate>Tue, 14 Dec 2010 02:26:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swamp Gas - Nov 22 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=48&amp;date=1410</description>
+      <enclosure length="100535165"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_gas/swamp_gas_2010112200.mp3"/>
+      <pubDate>Tue, 23 Nov 2010 02:26:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swamp Gas - Nov 14 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=48&amp;date=1386</description>
+      <enclosure length="43165395"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_gas/swamp_gas_2010111400.mp3"/>
+      <pubDate>Mon, 15 Nov 2010 02:16:46 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

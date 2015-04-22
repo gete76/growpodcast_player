@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Blitz!</title>
+    <link>http://www.growradio.org/show.php?name=The Blitz!</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Blitz! - Sep 20 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=120&amp;date=2801</description>
+      <enclosure length="173851035"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_blitz!/the_blitz!_2011092000.mp3"/>
+      <pubDate>Wed, 21 Sep 2011 02:41:40 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Blitz! - Sep 13 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=120&amp;date=2762</description>
+      <enclosure length="172158957"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_blitz!/the_blitz!_2011091300.mp3"/>
+      <pubDate>Wed, 14 Sep 2011 02:40:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Blitz! - Aug 30 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=120&amp;date=2699</description>
+      <enclosure length="164964965"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_blitz!/the_blitz!_2011083000.mp3"/>
+      <pubDate>Wed, 31 Aug 2011 02:40:30 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

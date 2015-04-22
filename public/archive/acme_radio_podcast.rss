@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Acme Radio</title>
+    <link>http://www.growradio.org/show.php?name=Acme Radio</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Acme Radio - Oct 04 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=67&amp;date=5877  </description>
+      <enclosure length="113660246"
+        url="https://s3.amazonaws.com/growradio/acme_radio/acme_radio_2013100400.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 04 Oct 2013 19:01:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Acme Radio - Sep 20 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=67&amp;date=5829  </description>
+      <enclosure length="131002610"
+        url="https://s3.amazonaws.com/growradio/acme_radio/acme_radio_2013092000.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 20 Sep 2013 19:01:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>Acme Radio - Sep 13 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=67&amp;date=5797  </description>
+      <enclosure length="113476326"
+        url="https://s3.amazonaws.com/growradio/acme_radio/acme_radio_2013091300.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 13 Sep 2013 19:01:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Acme Radio - Aug 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=67&amp;date=5720  </description>
+      <enclosure length="114983260"
+        url="https://s3.amazonaws.com/growradio/acme_radio/acme_radio_2013082300.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Aug 2013 19:01:07 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

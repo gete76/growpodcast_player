@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Experiment</title>
+    <link>http://www.growradio.org/show.php?name=The Experiment</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Experiment - Dec 17 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=162&amp;date=6195  hip-hop</description>
+      <enclosure type="audio/mpeg"
+        length="86445654"
+        url="https://s3.amazonaws.com/growradio/the_experiment/the_experiment_2013121700.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:17:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Experiment - Dec 10 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=162&amp;date=6161  good music :)</description>
+      <enclosure type="audio/mpeg"
+        length="33470600"
+        url="https://s3.amazonaws.com/growradio/the_experiment/the_experiment_2013121000.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:16:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Experiment - Dec 03 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=162&amp;date=6127  Awesomeness</description>
+      <enclosure type="audio/mpeg"
+        length="54049338"
+        url="https://s3.amazonaws.com/growradio/the_experiment/the_experiment_2013120300.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:16:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Experiment - Nov 26 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=162&amp;date=6104  Dubstep</description>
+      <enclosure type="audio/mpeg"
+        length="187199"
+        url="https://s3.amazonaws.com/growradio/the_experiment/the_experiment_2013112600.mp3"/>
+      <pubDate>Tue, 18 Mar 2014 04:15:54 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

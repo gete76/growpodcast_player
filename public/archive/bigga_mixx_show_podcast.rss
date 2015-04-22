@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Bigga Mixx Show</title>
+    <link>http://www.growradio.org/show.php?name=Bigga Mixx Show</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Bigga Mixx Show - Nov 07 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=9&amp;date=4425  RATCHET THINGS</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/bigga_mixx_show/bigga_mixx_show_2012110700.mp3"
+        length="157504803"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Nov 2012 21:45:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bigga Mixx Show - Oct 24 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=9&amp;date=4367  TURNTABLE.FM edition
+</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/bigga_mixx_show/bigga_mixx_show_2012102400.mp3"
+        length="115491664"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 24 Oct 2012 21:01:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bigga Mixx Show - Oct 17 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=9&amp;date=4328  TRAPDICKIN' AND BEYOND</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/bigga_mixx_show/bigga_mixx_show_2012101700.mp3"
+        length="115084547"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 17 Oct 2012 21:00:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Bigga Mixx Show - Oct 10 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=9&amp;date=4298  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/bigga_mixx_show/bigga_mixx_show_2012101000.mp3"
+        length="117951329"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 10 Oct 2012 21:03:17 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

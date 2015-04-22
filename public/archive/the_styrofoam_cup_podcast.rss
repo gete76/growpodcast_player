@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Styrofoam Cup</title>
+    <link>http://www.growradio.org/show.php?name=The Styrofoam Cup</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Styrofoam Cup - Nov 06 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=75&amp;date=4418  </description>
+      <enclosure type="audio/mpeg"
+        length="115255907"
+        url="https://s3.amazonaws.com/growradio/the_styrofoam_cup/the_styrofoam_cup_2012110600.mp3"/>
+      <pubDate>Tue, 06 Nov 2012 21:00:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Styrofoam Cup - Oct 23 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=75&amp;date=4355  </description>
+      <enclosure type="audio/mpeg"
+        length="114136575"
+        url="https://s3.amazonaws.com/growradio/the_styrofoam_cup/the_styrofoam_cup_2012102300.mp3"/>
+      <pubDate>Tue, 23 Oct 2012 20:59:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Styrofoam Cup - Oct 16 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=75&amp;date=4324  </description>
+      <enclosure type="audio/mpeg"
+        length="114765950"
+        url="https://s3.amazonaws.com/growradio/the_styrofoam_cup/the_styrofoam_cup_2012101600.mp3"/>
+      <pubDate>Wed, 17 Oct 2012 01:00:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Styrofoam Cup - Oct 02 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=75&amp;date=4263  </description>
+      <enclosure type="audio/mpeg"
+        length="147491819"
+        url="https://s3.amazonaws.com/growradio/the_styrofoam_cup/the_styrofoam_cup_2012100200.mp3"/>
+      <pubDate>Tue, 02 Oct 2012 21:35:06 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Enjoy The Silence</title>
+    <link>http://www.growradio.org/show.php?name=Enjoy The Silence</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Enjoy The Silence - May 24 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=88&amp;date=3688  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/enjoy_the_silence/enjoy_the_silence_2012052400.mp3"
+        type="audio/mpeg"
+        length="5029185"/>
+      <pubDate>Thu, 24 May 2012 21:59:07 -0400</pubDate>
+    </item>
+    <item>
+      <title>Enjoy The Silence - May 10 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=88&amp;date=3621  MCA Tribute
+</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/enjoy_the_silence/enjoy_the_silence_2012051000.mp3"
+        type="audio/mpeg"
+        length="2691380"/>
+      <pubDate>Thu, 10 May 2012 21:58:44 -0400</pubDate>
+    </item>
+    <item>
+      <title>Enjoy The Silence_Apr 26 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=88&amp;date=3545  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/enjoy_the_silence/enjoy_the_silence_2012042600.mp3"
+        type="audio/mpeg"
+        length="27772566"/>
+      <pubDate>Thu, 26 Apr 2012 22:01:30 -0400</pubDate>
+    </item>
+    <item>
+      <title>Enjoy The Silence_Apr 19 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=88&amp;date=3513  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/enjoy_the_silence/enjoy_the_silence_2012041900.mp3"
+        type="audio/mpeg"
+        length="7107267"/>
+      <pubDate>Mon, 23 Apr 2012 21:26:19 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

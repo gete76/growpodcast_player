@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Swamp Boogie and Blues</title>
+    <link>http://www.growradio.org/show.php?name=Swamp Boogie and Blues</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Swamp Boogie and Blues - Aug 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=90&amp;date=5719  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/swamp_boogie_and_blues/swamp_boogie_and_blues_2013082300.mp3"
+        length="87356199"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Aug 2013 17:01:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swamp Boogie and Blues - Aug 16 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=90&amp;date=5687  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/swamp_boogie_and_blues/swamp_boogie_and_blues_2013081600.mp3"
+        length="55311037"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 16 Aug 2013 15:59:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swamp Boogie and Blues - Aug 09 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=90&amp;date=5659  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/swamp_boogie_and_blues/swamp_boogie_and_blues_2013080900.mp3"
+        length="114522045"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Aug 2013 16:59:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Swamp Boogie and Blues - Jul 26 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=90&amp;date=5602  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/swamp_boogie_and_blues/swamp_boogie_and_blues_2013072600.mp3"
+        length="110410858"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jul 2013 16:54:42 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

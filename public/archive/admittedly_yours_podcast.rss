@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Admittedly Yours</title>
+    <link>http://www.growradio.org/show.php?name=Admittedly Yours</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Admittedly Yours - Mar 11 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=117&amp;date=3363  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/admittedly_yours/admittedly_yours_2012031100.mp3"
+        type="audio/mpeg"
+        length="107995510"/>
+      <pubDate>Sun, 11 Mar 2012 19:13:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admittedly Yours - Mar 04 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=117&amp;date=3336  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/admittedly_yours/admittedly_yours_2012030400.mp3"
+        type="audio/mpeg"
+        length="19938539"/>
+      <pubDate>Sun, 04 Mar 2012 21:30:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Admittedly Yours - Feb 26 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=117&amp;date=3306  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/admittedly_yours/admittedly_yours_2012022600.mp3"
+        type="audio/mpeg"
+        length="69316749"/>
+      <pubDate>Sun, 26 Feb 2012 23:28:25 -0500</pubDate>
+    </item>
+    <item>
+      <title>Admittedly Yours - Jan 18 2012</title>
+      <description> Playlist@ #&lt;Net::HTTPOK:0x4fbc0a8&gt;</description>
+      <enclosure url="https://s3.amazonaws.com/growradio/admittedly_yours/admittedly_yours_2012011800.mp3"
+        type="audio/mpeg"
+        length="182636286"/>
+      <pubDate>Sun, 29 Jan 2012 08:58:55 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

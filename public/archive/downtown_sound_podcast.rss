@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Downtown Sound</title>
+    <link>http://www.growradio.org/show.php?name=Downtown Sound</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Downtown Sound - Sep 04 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=174&amp;date=5767  </description>
+      <enclosure length="114470226"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/downtown_sound/downtown_sound_2013090400.mp3"/>
+      <pubDate>Wed, 04 Sep 2013 21:00:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Downtown Sound - Aug 28 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=174&amp;date=5739  </description>
+      <enclosure length="110559277"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/downtown_sound/downtown_sound_2013082800.mp3"/>
+      <pubDate>Wed, 28 Aug 2013 21:00:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Downtown Sound - Aug 21 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=174&amp;date=5714  </description>
+      <enclosure length="56041235"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/downtown_sound/downtown_sound_2013082100.mp3"/>
+      <pubDate>Thu, 22 Aug 2013 19:57:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>Downtown Sound - Aug 14 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=174&amp;date=5678  </description>
+      <enclosure length="100626994"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/downtown_sound/downtown_sound_2013081400.mp3"/>
+      <pubDate>Wed, 14 Aug 2013 21:06:39 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

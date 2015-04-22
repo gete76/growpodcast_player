@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Morning Fix</title>
+    <link>http://www.growradio.org/show.php?name=The Morning Fix</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Morning Fix - Dec 14 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=94&amp;date=3025</description>
+      <enclosure length="142266209"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_morning_fix/the_morning_fix_2011121400.mp3"/>
+      <pubDate>Thu, 15 Dec 2011 05:01:47 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Morning Fix - Nov 30 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=94&amp;date=2963</description>
+      <enclosure length="160569823"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_morning_fix/the_morning_fix_2011113000.mp3"/>
+      <pubDate>Thu, 01 Dec 2011 03:47:36 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Morning Fix - Nov 16 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=94&amp;date=2906</description>
+      <enclosure length="171042177"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_morning_fix/the_morning_fix_2011111600.mp3"/>
+      <pubDate>Thu, 17 Nov 2011 04:09:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Morning Fix - Nov 02 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=94&amp;date=3011</description>
+      <enclosure length="120013161"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_morning_fix/the_morning_fix_2011110200.mp3"/>
+      <pubDate>Thu, 03 Nov 2011 03:11:25 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Swamp Biscuit Blues Hour</title>
+    <link>http://www.growradio.org/show.php?name=Swamp Biscuit Blues Hour</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Swamp Biscuit Blues Hour - Dec 19 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=74&amp;date=1483</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_biscuit_blues_hour/swamp_biscuit_blues_hour_2010121900.mp3"
+        length="87719082"/>
+      <pubDate>Mon, 20 Dec 2010 03:09:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swamp Biscuit Blues Hour - Dec 12 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=74&amp;date=1465</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_biscuit_blues_hour/swamp_biscuit_blues_hour_2010121200.mp3"
+        length="87062408"/>
+      <pubDate>Mon, 13 Dec 2010 03:34:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swamp Biscuit Blues Hour - Dec 05 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=74&amp;date=1442</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_biscuit_blues_hour/swamp_biscuit_blues_hour_2010120500.mp3"
+        length="88399544"/>
+      <pubDate>Mon, 06 Dec 2010 03:21:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swamp Biscuit Blues Hour - Nov 28 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=74&amp;date=1424</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/swamp_biscuit_blues_hour/swamp_biscuit_blues_hour_2010112800.mp3"
+        length="85931226"/>
+      <pubDate>Mon, 29 Nov 2010 03:29:46 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

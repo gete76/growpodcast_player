@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Ben and Lea</title>
+    <link>http://www.growradio.org/show.php?name=Ben and Lea</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Ben and Lea - Apr 28 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=105&amp;date=5183  A special show dedicated to co-host DJ Baby Adrienne</description>
+      <enclosure length="115110879"
+        url="https://s3.amazonaws.com/growradio/ben_and_lea/ben_and_lea_2013042800.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 28 Apr 2013 13:00:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ben and Lea - Apr 21 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=105&amp;date=5150  				    Groovin' before the Growradio picnic today!				  </description>
+      <enclosure length="112984754"
+        url="https://s3.amazonaws.com/growradio/ben_and_lea/ben_and_lea_2013042100.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Apr 2013 13:00:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ben and Lea - Mar 03 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=105&amp;date=4913  				  Introducing new co-host DJ Yo Adrienne! Buffalo Girls are back from a road trip out west 			</description>
+      <enclosure length="114708026"
+        url="https://s3.amazonaws.com/growradio/ben_and_lea/ben_and_lea_2013030300.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 03 Mar 2013 12:59:35 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Selector</title>
+    <link>http://www.growradio.org/show.php?name=The Selector</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Selector - Nov 02 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=76&amp;date=1362</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_selector/the_selector_2010110200.mp3"
+        length="184601334"/>
+      <pubDate>Wed, 03 Nov 2010 01:53:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Selector - Oct 26 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=76&amp;date=1345</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_selector/the_selector_2010102600.mp3"
+        length="182985628"/>
+      <pubDate>Wed, 27 Oct 2010 02:42:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Selector - Oct 12 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=76&amp;date=1314</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_selector/the_selector_2010101200.mp3"
+        length="178528508"/>
+      <pubDate>Wed, 13 Oct 2010 01:50:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Selector - Oct 05 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=76&amp;date=1293</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_selector/the_selector_2010100500.mp3"
+        length="177867452"/>
+      <pubDate>Wed, 06 Oct 2010 01:56:08 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Anarchademics</title>
+    <link>http://www.growradio.org/show.php?name=Anarchademics</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Anarchademics - Dec 02 2011</title>
+      <description> Playlist@ &lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::mysqli() [&lt;a href='mysqli.mysqli'&gt;mysqli.mysqli&lt;/a&gt;]: (HY000/2003): Can't connect to MySQL server on 'growradio.db.8600939.hostedresource.com' (110) in &lt;b&gt;/home/content/39/8600939/html/include/db_admin.php&lt;/b&gt; on line &lt;b&gt;10&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::real_escape_string() [&lt;a href='mysqli.real-escape-string'&gt;mysqli.real-escape-string&lt;/a&gt;]: Couldn't fetch mysqli in &lt;b&gt;/home/content/39/8600939/html/responder/podcast_responder.php&lt;/b&gt; on line &lt;b&gt;69&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::real_escape_string() [&lt;a href='mysqli.real-escape-string'&gt;mysqli.real-escape-string&lt;/a&gt;]: Couldn't fetch mysqli in &lt;b&gt;/home/content/39/8600939/html/responder/podcast_responder.php&lt;/b&gt; on line &lt;b&gt;70&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::query() [&lt;a href='mysqli.query'&gt;mysqli.query&lt;/a&gt;]: Couldn't fetch mysqli in &lt;b&gt;/home/content/39/8600939/html/responder/podcast_responder.php&lt;/b&gt; on line &lt;b&gt;73&lt;/b&gt;&lt;br /&gt;
+NOSHOW</description>
+      <enclosure length="169245827"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/anarchademics/anarchademics_2011120200.mp3"/>
+      <pubDate>Thu, 15 Dec 2011 03:25:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anarchademics - Nov 04 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=66&amp;date=3024</description>
+      <enclosure length="166081751"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/anarchademics/anarchademics_2011110400.mp3"/>
+      <pubDate>Sat, 05 Nov 2011 03:00:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anarchademics - Sep 30 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=66&amp;date=2852</description>
+      <enclosure length="171904803"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/anarchademics/anarchademics_2011093000.mp3"/>
+      <pubDate>Sat, 01 Oct 2011 02:49:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Anarchademics - Jul 25 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=66&amp;date=2534</description>
+      <enclosure length="172570867"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/anarchademics/anarchademics_2011072500.mp3"/>
+      <pubDate>Wed, 27 Jul 2011 02:23:49 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Boom Bap Original Rap</title>
+    <link>http://www.growradio.org/show.php?name=Boom Bap Original Rap</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Boom Bap Original Rap - Nov 23 2011</title>
+      <description> Playlist@ &lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::mysqli() [&lt;a href='mysqli.mysqli'&gt;mysqli.mysqli&lt;/a&gt;]: (HY000/2003): Can't connect to MySQL server on 'growradio.db.8600939.hostedresource.com' (110) in &lt;b&gt;/home/content/39/8600939/html/include/db_admin.php&lt;/b&gt; on line &lt;b&gt;10&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::real_escape_string() [&lt;a href='mysqli.real-escape-string'&gt;mysqli.real-escape-string&lt;/a&gt;]: Couldn't fetch mysqli in &lt;b&gt;/home/content/39/8600939/html/responder/podcast_responder.php&lt;/b&gt; on line &lt;b&gt;69&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::real_escape_string() [&lt;a href='mysqli.real-escape-string'&gt;mysqli.real-escape-string&lt;/a&gt;]: Couldn't fetch mysqli in &lt;b&gt;/home/content/39/8600939/html/responder/podcast_responder.php&lt;/b&gt; on line &lt;b&gt;70&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Warning&lt;/b&gt;:  mysqli::query() [&lt;a href='mysqli.query'&gt;mysqli.query&lt;/a&gt;]: Couldn't fetch mysqli in &lt;b&gt;/home/content/39/8600939/html/responder/podcast_responder.php&lt;/b&gt; on line &lt;b&gt;73&lt;/b&gt;&lt;br /&gt;
+NOSHOW</description>
+      <enclosure length="178280267"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boom_bap_original_rap/boom_bap_original_rap_2011112300.mp3"/>
+      <pubDate>Thu, 15 Dec 2011 04:29:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boom Bap Original Rap - Nov 16 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=93&amp;date=2907</description>
+      <enclosure length="152503819"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boom_bap_original_rap/boom_bap_original_rap_2011111600.mp3"/>
+      <pubDate>Thu, 17 Nov 2011 03:24:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boom Bap Original Rap - Nov 09 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=93&amp;date=3043</description>
+      <enclosure length="164394689"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boom_bap_original_rap/boom_bap_original_rap_2011110900.mp3"/>
+      <pubDate>Thu, 10 Nov 2011 03:41:07 -0500</pubDate>
+    </item>
+    <item>
+      <title>Boom Bap Original Rap - Nov 02 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=93&amp;date=3012</description>
+      <enclosure length="192595363"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/boom_bap_original_rap/boom_bap_original_rap_2011110200.mp3"/>
+      <pubDate>Thu, 03 Nov 2011 02:42:32 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

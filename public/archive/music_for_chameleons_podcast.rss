@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Music For Chameleons</title>
+    <link>http://www.growradio.org/show.php?name=Music For Chameleons</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Music For Chameleons - Sep 25 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=59&amp;date=1262</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_chameleons/music_for_chameleons_2010092500.mp3"
+        length="169028966"/>
+      <pubDate>Sun, 26 Sep 2010 02:41:43 -0400</pubDate>
+    </item>
+    <item>
+      <title>Music For Chameleons - Sep 18 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=59&amp;date=1242</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_chameleons/music_for_chameleons_2010091800.mp3"
+        length="172302946"/>
+      <pubDate>Sun, 19 Sep 2010 02:39:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>Music For Chameleons - Sep 04 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=59&amp;date=1203</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_chameleons/music_for_chameleons_2010090400.mp3"
+        length="172393716"/>
+      <pubDate>Sun, 05 Sep 2010 02:46:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Music For Chameleons - Aug 28 2010</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=59&amp;date=1182</description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/music_for_chameleons/music_for_chameleons_2010082800.mp3"
+        length="170217740"/>
+      <pubDate>Sun, 29 Aug 2010 05:15:24 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

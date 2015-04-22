@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Global Aesthetic</title>
+    <link>http://www.growradio.org/show.php?name=Global Aesthetic</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Global Aesthetic - Jun 25 2010</title>
+      <description>Global Aesthetic - Mar 04 2010:   Playlist@ http://www.growradio.org/playlist.php?show=58&amp;date=687</description>
+      <enclosure length="185674967"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/global_aesthetic/global_aesthetic_2010062500.mp3"/>
+      <pubDate>Sat, 26 Jun 2010 01:32:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Global Aesthetic - Apr 29 2010</title>
+      <description>  Playlist@ http://www.growradio.org/playlist.php?show=58&amp;date=839</description>
+      <enclosure length="183369370"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/global_aesthetic/global_aesthetic_2010042900.mp3"/>
+      <pubDate>Fri, 30 Apr 2010 01:47:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>Global Aesthetic - Apr 08 2010</title>
+      <description>  Playlist@ http://www.growradio.org/playlist.php?show=58&amp;date=793</description>
+      <enclosure length="170625262"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/global_aesthetic/global_aesthetic_2010040800.mp3"/>
+      <pubDate>Fri, 09 Apr 2010 02:03:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Global Aesthetic - Apr 01 2010</title>
+      <description>  Playlist@ http://www.growradio.org/playlist.php?show=58&amp;date=770</description>
+      <enclosure length="173179953"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/global_aesthetic/global_aesthetic_2010040100.mp3"/>
+      <pubDate>Fri, 02 Apr 2010 01:43:31 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

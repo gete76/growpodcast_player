@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Community Affairs</title>
+    <link>http://www.growradio.org/show.php?name=Community Affairs</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Community Affairs - Oct 23 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=138&amp;date=4362  Alachua County Comm. Dist. 5</description>
+      <enclosure type="audio/mpeg"
+        length="38053850"
+        url="https://s3.amazonaws.com/growradio/community_affairs/community_affairs_2012102300.mp3"/>
+      <pubDate>Wed, 24 Oct 2012 07:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Community Affairs - Oct 22 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=138&amp;date=4361  Alachua County Comm. Dist 3</description>
+      <enclosure type="audio/mpeg"
+        length="30494640"
+        url="https://s3.amazonaws.com/growradio/community_affairs/community_affairs_2012102200.mp3"/>
+      <pubDate>Wed, 24 Oct 2012 07:45:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>Community Affairs - Oct 21 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=138&amp;date=4360  Alachua County Comm Dist 1</description>
+      <enclosure type="audio/mpeg"
+        length="36204379"
+        url="https://s3.amazonaws.com/growradio/community_affairs/community_affairs_2012102100.mp3"/>
+      <pubDate>Wed, 24 Oct 2012 07:43:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Community Affairs - Oct 20 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=138&amp;date=4359  				    FL House District 21				  </description>
+      <enclosure type="audio/mpeg"
+        length="29701360"
+        url="https://s3.amazonaws.com/growradio/community_affairs/community_affairs_2012102000.mp3"/>
+      <pubDate>Wed, 24 Oct 2012 07:40:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Community Affairs - Oct 19 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=138&amp;date=4358  				    				 LOWV Introduction   				  				  </description>
+      <enclosure type="audio/mpeg"
+        length="3991030"
+        url="https://s3.amazonaws.com/growradio/community_affairs/community_affairs_2012101900.mp3"/>
+      <pubDate>Wed, 24 Oct 2012 07:34:32 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

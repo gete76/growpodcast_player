@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Partly Classic with a Chance of Rock</title>
+    <link>http://www.growradio.org/show.php?name=Partly Classic with a Chance of Rock</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Partly Classic with a Chance of Rock - Mar 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=177&amp;date=4954  </description>
+      <enclosure type="audio/mpeg"
+        length="102210982"
+        url="https://s3.amazonaws.com/growradio/partly_classic_with_a_chance_of_rock/partly_classic_with_a_chance_of_rock_2013031200.mp3"/>
+      <pubDate>Tue, 12 Mar 2013 17:56:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Partly Classic with a Chance of Rock - Feb 26 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=177&amp;date=4892  </description>
+      <enclosure type="audio/mpeg"
+        length="107422233"
+        url="https://s3.amazonaws.com/growradio/partly_classic_with_a_chance_of_rock/partly_classic_with_a_chance_of_rock_2013022600.mp3"/>
+      <pubDate>Tue, 26 Feb 2013 17:56:15 -0500</pubDate>
+    </item>
+    <item>
+      <title>Partly Classic with a Chance of Rock - Feb 19 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=177&amp;date=4853  </description>
+      <enclosure type="audio/mpeg"
+        length="105096584"
+        url="https://s3.amazonaws.com/growradio/partly_classic_with_a_chance_of_rock/partly_classic_with_a_chance_of_rock_2013021900.mp3"/>
+      <pubDate>Tue, 19 Feb 2013 18:01:45 -0500</pubDate>
+    </item>
+    <item>
+      <title>Partly Classic with a Chance of Rock - Feb 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=177&amp;date=4820  </description>
+      <enclosure type="audio/mpeg"
+        length="107269125"
+        url="https://s3.amazonaws.com/growradio/partly_classic_with_a_chance_of_rock/partly_classic_with_a_chance_of_rock_2013021200.mp3"/>
+      <pubDate>Tue, 12 Feb 2013 17:59:02 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

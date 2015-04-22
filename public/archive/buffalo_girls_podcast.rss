@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Buffalo Girls</title>
+    <link>http://www.growradio.org/show.php?name=Buffalo Girls</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Buffalo Girls - Aug 11 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=154&amp;date=5663  Last Show!</description>
+      <enclosure type="audio/mpeg"
+        length="116418747"
+        url="https://s3.amazonaws.com/growradio/buffalo_girls/buffalo_girls_2013081100.mp3"/>
+      <pubDate>Sun, 11 Aug 2013 13:01:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>Buffalo Girls - Aug 04 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=154&amp;date=5636  Some BF favorites and in studio guest Dain Norman</description>
+      <enclosure type="audio/mpeg"
+        length="115504608"
+        url="https://s3.amazonaws.com/growradio/buffalo_girls/buffalo_girls_2013080400.mp3"/>
+      <pubDate>Sun, 04 Aug 2013 13:00:39 -0400</pubDate>
+    </item>
+    <item>
+      <title>Buffalo Girls - Jul 28 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=154&amp;date=5609  Rockabilly show!</description>
+      <enclosure type="audio/mpeg"
+        length="117631661"
+        url="https://s3.amazonaws.com/growradio/buffalo_girls/buffalo_girls_2013072800.mp3"/>
+      <pubDate>Sun, 28 Jul 2013 13:03:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>Buffalo Girls - Jul 21 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=154&amp;date=5576  Interview with Spice Hound Music Co. and more!</description>
+      <enclosure type="audio/mpeg"
+        length="116563363"
+        url="https://s3.amazonaws.com/growradio/buffalo_girls/buffalo_girls_2013072100.mp3"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:03 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

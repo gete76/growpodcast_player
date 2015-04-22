@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Root</title>
+    <link>http://www.growradio.org/show.php?name=The Root</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Root - Apr 23 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=182&amp;date=5160  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_root/the_root_2013042300.mp3"
+        length="112017953"/>
+      <pubDate>Tue, 23 Apr 2013 11:56:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Root - Apr 16 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=182&amp;date=5128  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_root/the_root_2013041600.mp3"
+        length="118759200"/>
+      <pubDate>Tue, 16 Apr 2013 12:03:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Root - Apr 09 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=182&amp;date=5097  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_root/the_root_2013040900.mp3"
+        length="111499686"/>
+      <pubDate>Tue, 09 Apr 2013 11:58:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Root - Mar 26 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=182&amp;date=5030  </description>
+      <enclosure type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/the_root/the_root_2013032600.mp3"
+        length="117679546"/>
+      <pubDate>Tue, 26 Mar 2013 12:02:43 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

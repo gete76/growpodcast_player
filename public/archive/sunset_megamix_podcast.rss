@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Sunset Megamix</title>
+    <link>http://www.growradio.org/show.php?name=Sunset Megamix</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Sunset Megamix - Oct 19 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=137&amp;date=4339  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/sunset_megamix/sunset_megamix_2012101900.mp3"
+        type="audio/mpeg"
+        length="111082560"/>
+      <pubDate>Fri, 19 Oct 2012 19:00:31 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sunset Megamix - Oct 12 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=137&amp;date=4305  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/sunset_megamix/sunset_megamix_2012101200.mp3"
+        type="audio/mpeg"
+        length="120384637"/>
+      <pubDate>Fri, 12 Oct 2012 19:05:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sunset Megamix - Oct 05 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=137&amp;date=4279  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/sunset_megamix/sunset_megamix_2012100500.mp3"
+        type="audio/mpeg"
+        length="9889191"/>
+      <pubDate>Fri, 05 Oct 2012 19:49:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Sunset Megamix - Sep 21 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=137&amp;date=4218  </description>
+      <enclosure url="https://s3.amazonaws.com/growradio/sunset_megamix/sunset_megamix_2012092100.mp3"
+        type="audio/mpeg"
+        length="115754501"/>
+      <pubDate>Sat, 22 Sep 2012 13:30:56 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

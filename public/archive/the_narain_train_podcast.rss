@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>The Narain Train</title>
+    <link>http://www.growradio.org/show.php?name=The Narain Train</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>The Narain Train - Jan 31 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=141&amp;date=6275  </description>
+      <enclosure type="audio/mpeg"
+        length="116218124"
+        url="https://s3.amazonaws.com/growradio/the_narain_train/the_narain_train_2014013100.mp3"/>
+      <pubDate>Fri, 31 Jan 2014 21:05:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Narain Train - Jan 17 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=141&amp;date=6217  </description>
+      <enclosure type="audio/mpeg"
+        length="113941994"
+        url="https://s3.amazonaws.com/growradio/the_narain_train/the_narain_train_2014011700.mp3"/>
+      <pubDate>Fri, 17 Jan 2014 20:59:51 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

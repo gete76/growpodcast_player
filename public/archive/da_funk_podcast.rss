@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Da Funk</title>
+    <link>http://www.growradio.org/show.php?name=Da Funk</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Da Funk - Jul 26 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=178&amp;date=5603  </description>
+      <enclosure length="115683122"
+        url="https://s3.amazonaws.com/growradio/da_funk/da_funk_2013072600.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jul 2013 19:00:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Da Funk - Jul 19 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=178&amp;date=5571  </description>
+      <enclosure length="66635"
+        url="https://s3.amazonaws.com/growradio/da_funk/da_funk_2013071900.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Da Funk - Jul 12 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=178&amp;date=5535  </description>
+      <enclosure length="115218546"
+        url="https://s3.amazonaws.com/growradio/da_funk/da_funk_2013071200.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Da Funk - Jun 21 2013</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=178&amp;date=5444  </description>
+      <enclosure length="113076000"
+        url="https://s3.amazonaws.com/growradio/da_funk/da_funk_2013062100.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jul 2013 23:38:13 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Jammin' with 'Jamin</title>
+    <link>http://www.growradio.org/show.php?name=Jammin' with 'Jamin</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Jammin' with 'Jamin - Dec 05 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=116&amp;date=2992</description>
+      <enclosure length="79432716"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/jammin'_with_'jamin/jammin'_with_'jamin_2011120500.mp3"/>
+      <pubDate>Tue, 06 Dec 2011 03:31:06 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jammin' with 'Jamin - Nov 07 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=116&amp;date=3041</description>
+      <enclosure length="152547012"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/jammin'_with_'jamin/jammin'_with_'jamin_2011110700.mp3"/>
+      <pubDate>Tue, 08 Nov 2011 04:21:28 -0500</pubDate>
+    </item>
+    <item>
+      <title>Jammin' with 'Jamin - Oct 03 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=116&amp;date=2868</description>
+      <enclosure length="165118344"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/jammin'_with_'jamin/jammin'_with_'jamin_2011100300.mp3"/>
+      <pubDate>Tue, 04 Oct 2011 03:27:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Jammin' with 'Jamin - Sep 26 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=116&amp;date=2831</description>
+      <enclosure length="156395660"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/jammin'_with_'jamin/jammin'_with_'jamin_2011092600.mp3"/>
+      <pubDate>Tue, 27 Sep 2011 02:49:09 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

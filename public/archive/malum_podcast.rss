@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Malum</title>
+    <link>http://www.growradio.org/show.php?name=Malum</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Malum - Dec 29 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=80&amp;date=7237  Last Live Broadcast...enjoy!</description>
+      <enclosure length="59935755"
+        url="https://s3.amazonaws.com/growradio/malum/malum_2014122900.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 29 Dec 2014 20:01:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Malum - Dec 15 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=80&amp;date=7207  </description>
+      <enclosure length="53910858"
+        url="https://s3.amazonaws.com/growradio/malum/malum_2014121500.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 15 Dec 2014 19:55:43 -0500</pubDate>
+    </item>
+    <item>
+      <title>Malum - Dec 01 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=80&amp;date=7179  </description>
+      <enclosure length="52752284"
+        url="https://s3.amazonaws.com/growradio/malum/malum_2014120100.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 01 Dec 2014 19:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Malum - Nov 24 2014</title>
+      <description> Playlist@ http://www.growradio.org/playlists?show=80&amp;date=7169  </description>
+      <enclosure length="54339657"
+        url="https://s3.amazonaws.com/growradio/malum/malum_2014112400.mp3"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 24 Nov 2014 19:57:16 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

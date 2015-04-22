@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Banned in LD</title>
+    <link>http://www.growradio.org/show.php?name=Banned in LD</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Banned in LD - Jul 07 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=157&amp;date=3886  </description>
+      <enclosure type="audio/mpeg"
+        length="102871754"
+        url="https://s3.amazonaws.com/growradio/banned_in_ld/banned_in_ld_2012070700.mp3"/>
+      <pubDate>Sat, 07 Jul 2012 18:57:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>Banned in LD - Jun 30 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=157&amp;date=3851  </description>
+      <enclosure type="audio/mpeg"
+        length="154828333"
+        url="https://s3.amazonaws.com/growradio/banned_in_ld/banned_in_ld_2012063000.mp3"/>
+      <pubDate>Sat, 30 Jun 2012 19:45:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Banned in LD - Jun 16 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=157&amp;date=3791  </description>
+      <enclosure type="audio/mpeg"
+        length="133752230"
+        url="https://s3.amazonaws.com/growradio/banned_in_ld/banned_in_ld_2012061600.mp3"/>
+      <pubDate>Sat, 16 Jun 2012 19:27:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Banned in LD - Jun 02 2012</title>
+      <description> Playlist@ http://www.growradio.org/playlist?show=157&amp;date=3727  </description>
+      <enclosure type="audio/mpeg"
+        length="121152633"
+        url="https://s3.amazonaws.com/growradio/banned_in_ld/banned_in_ld_2012060200.mp3"/>
+      <pubDate>Sat, 02 Jun 2012 18:55:32 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

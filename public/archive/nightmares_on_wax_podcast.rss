@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Nightmares on Wax</title>
+    <link>http://www.growradio.org/show.php?name=Nightmares on Wax</link>
+    <description>A Grow Radio Podcast : www.growradio.org</description>
+    <language>en-us</language>
+    <item>
+      <title>Nightmares on Wax - Dec 17 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=84&amp;date=3043</description>
+      <enclosure length="168377297"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/nightmares_on_wax/nightmares_on_wax_2011121700.mp3"/>
+      <pubDate>Sun, 18 Dec 2011 04:06:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nightmares on Wax - Dec 03 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=84&amp;date=2981</description>
+      <enclosure length="160186713"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/nightmares_on_wax/nightmares_on_wax_2011120300.mp3"/>
+      <pubDate>Sun, 04 Dec 2011 04:15:22 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nightmares on Wax - Nov 05 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=84&amp;date=3028</description>
+      <enclosure length="145256613"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/nightmares_on_wax/nightmares_on_wax_2011110500.mp3"/>
+      <pubDate>Sun, 06 Nov 2011 04:31:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nightmares on Wax - Oct 22 2011</title>
+      <description> Playlist@ http://www.growradio.org/playlist.php?show=84&amp;date=2963</description>
+      <enclosure length="152585195"
+        type="audio/mpeg"
+        url="https://s3.amazonaws.com/growradio/nightmares_on_wax/nightmares_on_wax_2011102200.mp3"/>
+      <pubDate>Sun, 23 Oct 2011 03:31:49 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
