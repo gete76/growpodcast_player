@@ -1,2 +1,2 @@
 # growpodcast_player
-growradio podcast player component in React
+growradio podcast player dev
