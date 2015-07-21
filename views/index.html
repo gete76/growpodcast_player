@@ -12,50 +12,38 @@
   <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-    <div id="player" class="jp-jplayer"></div>
+  <header>
+    <div id="react-player"></div>
+    <nav id="nav-block" class="light-green">
 
-    <div id="jp_container_1" class="jp-flat-audio" role="application" aria-label="media player">
-      <div class="jp-play-control jp-control">
-        <button class="jp-play jp-button" role="button" aria-label="play" tabindex="0"></button>
-      </div>
-      <div class="jp-bar">
-        <div class="jp-seek-bar jp-seek-bar-display"></div>
-        <div class="jp-seek-bar">
-          <div class="jp-play-bar"></div>
-          <div class="jp-details"><span class="jp-title" aria-label="title"></span></div>
-          <div class="jp-timing"><span class="jp-duration" role="timer" aria-label="duration"></span></div>
+      <div class="container">
+        <div class="nav-wrapper">
+
+          <ul id="nav" class="right hide-on-med-and-down">
+          	<li><a href="#">Shows</a></li>
+          	<li><a href="#">Archive</a></li>
+            <li><a href="#">Grow Radio Archives</a></li>
+          </ul><a href="#" data-activates="nav-mobile" class="right button-collapse"><i class="mdi-navigation-menu"></i></a>
         </div>
       </div>
-      <div class="jp-no-solution">
-        Media Player Error<br />
-        Update your browser or Flash plugin
-      </div>
-    </div>
-  <nav class="light-green">
-
-    <div class="container">
-      <div class="nav-wrapper">
-        
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-        	<li><a href="#">Shows</a></li>
-        	<li><a href="#">Archive</a></li>
-          	<li><a href="#">Grow Radio Archives</a></li>
-        </ul><a href="#" data-activates="nav-mobile" class="right button-collapse"><i class="mdi-navigation-menu"></i></a>
-      </div>
-    </div>
-  </nav>
+    </nav>
+  </header>
+  <ul id="nav-mobile" class="side-nav">
+    <li><a href="#">Shows</a></li>
+    <li><a href="#">Archive</a></li>
+    <li><a href="#">Grow Radio Archives</a></li>
+  </ul>
   <div class="section no-pad-bot" id="index-banner">
     <div class="container" id="index-banner-container">
       <br><br>
       <h1 class="header center green-text darken-1">GROW Podcast</h1>
-		<div class="row center">
+		  <div class="row center">
         <h5 class="header col s12 light">the new home of Grow Radio</h5>
       </div>
       <div class="row center">
 			<h5 class="header col s12 light">SITE UNDER CONSTRUCTION</h5>
       </div>
       <br><br>
-
     </div>
   </div>
 
@@ -155,6 +143,8 @@ NO. 9 PRODUCTIONS, INC. REGISTRATION#: CH33520</p>
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="/js/materialize.min.js"></script>
+  <script src="/player/js/lib/jquery.jplayer.js"></script>
+  <script src="/player/js/lib/jquery.zrssfeed.js"></script>
   <script src="/js/player.js"></script>
 
   </body>

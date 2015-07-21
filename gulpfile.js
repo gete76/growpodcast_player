@@ -14,10 +14,20 @@ var gulp = require('gulp'),
     path = require('path');
 
 gulp.task('default',function(){
+    function buildReact(){
+      return  gulp.src("./public/player/js/react/src/**/*.js")
+        .pipe(react())
+        .pipe(gulp.dest('./public/player/js/react/build'))
+    }
+    buildReact();
+
+    gulp.watch(['public/player/js/react/src/**']).on('change',function(){
+        buildReact();
+    })
 
     var bundle = watchify('./public/player/js/main.js');
     bundle.transform('reactify');
-    bundle.on('update',rebundle)
+    bundle.on('update',rebundle);
 
     function rebundle(){
         return bundle.bundle()

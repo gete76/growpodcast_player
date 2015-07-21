@@ -1,8 +1,11 @@
-$ = jQuery = require('jquery');
+//window.jQuery = $ = require('jquery');
+
+//require('materialize-css/bin/materialize');
+//require('./lib/materialize');
 //require('./lib/flat.audio');
-require('./lib/jquery.jplayer');
-//require('./lib/FeedEk');
-require('./lib/jquery.zrssfeed');
+var React = require('react');
+var Player = require('./react/build/player');
+var _ = require('lodash');
 
 $(document).ready(function(){
 
@@ -14,19 +17,25 @@ $(document).ready(function(){
     DescCharacterLimit:100,
     TitleLinkTarget:'_blank'
   });*/
-   /*$('#rss').rssfeed('http://growradio.org/data/archive/4_d_meltdown_podcast.rss', {
-      limit: 5
-    });
-  */
-   $('#rss').click(function(e){
+  $('#rss').rssfeed('http://growradio.org/data/archive/the_conch_podcast.rss', {
+    limit: 5
+  });
+  
+  React.render(<Player />, document.getElementById('react-player'));
+
+  $('#rss').click(function(e){
       e.preventDefault();
       var l = e.target.href.split('/');
-      $('#player').jPlayer('setMedia',{
-        title: l[l.length-1],
-        mp3: e.target.href
-      });
-      $('#player').jPlayer('play');
-   });
+      var name = l[l.length-1].split('_');
+      var date = name.pop();
+      name = _.capitalize(name.join(' '));
+      date = date.substring(0,4)+'-'+date.substring(4,6)+'-'+date.substring(6,8);
+
+      Player.play(name+' - '+date, e.target.href);
+  });
+  
+  $(".button-collapse").sideNav();
+   //$('#nav-block').pushpin({ top: $('#nav-block').offset().top });
 });
 
 
