@@ -5,6 +5,9 @@ header {
   right: 0;
   z-index: 500;
 }
+#main {
+  margin-top: 100px;
+}
 .jp-flat-audio {
   display: none;
 }
@@ -25,4 +28,24 @@ header {
 }
 h1.header {
   font-weight: bold;
+}
+#shows .show {
+  display: block;
+  margin: 10px;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 6px 50px 6px 100px;
+  border: 1px solid #ccc;
+}
+#show .mp3 {
+  display: block;
+  margin: 10px;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 6px 50px 6px 100px;
+  border: 1px solid #ccc;
+}
+#show .mp3:hover {
+  transition: box-shadow 0.3s, transform 0.3s;
+  box-shadow: 4px 4px 2px #ccc;
 }

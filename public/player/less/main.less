@@ -5,6 +5,10 @@ header{
 	right: 0;
 	z-index:500;
 }
+
+#main{
+	margin-top: 100px;
+}
 .jp-flat-audio{
 	display:none;
 	&.active{
@@ -15,14 +19,44 @@ header{
 .icon-block {
   padding: 0 15px;
 }
+
 #index-banner-container{
 	background-image: url('/images/logo.svg');
     background-repeat: no-repeat;
     background-size: 50%;
 }
+
 #index-banner-container h1,#index-banner-container h5{
 	text-shadow: 0px 0px 3px #fff;
 }
+
 h1.header{
 	font-weight: bold;
+}
+
+#shows{
+	.show{
+		display:block;
+		margin:10px;
+		font-size: 17px;
+		font-weight: bold;
+		padding:6px 50px 6px 100px;
+		border: 1px solid #ccc;
+	}
+}
+
+#show{
+	.mp3{
+		display:block;
+		margin:10px;
+		font-size: 17px;
+		font-weight: bold;
+		padding:6px 50px 6px 100px;
+		border: 1px solid #ccc;		
+        &:hover{
+            transition: box-shadow .3s,  transform .3s;
+            box-shadow: 4px 4px 2px #ccc;
+            
+        }
+	}
 }
